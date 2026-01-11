@@ -1,0 +1,13 @@
+{
+    "name": "lexis-dashboard",
+    "compatibility_date": "2024-09-23",
+    "main": "frontend/.vercel/output/static/_worker.js",
+    "assets": {
+        "directory": "frontend/.vercel/output/static",
+        "binding": "ASSETS"
+    },
+    "build": {
+        "command": "npm --prefix frontend install && npm --prefix frontend run pages:build",
+        "watch_dir": "frontend/src"
+    }
+}

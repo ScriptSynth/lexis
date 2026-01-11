@@ -4,13 +4,13 @@
     "compatibility_flags": [
         "nodejs_compat"
     ],
-    "main": "frontend/.vercel/output/static/_worker.js",
+    "main": ".vercel/output/static/_worker.js",
     "assets": {
-        "directory": "frontend/.vercel/output/static",
+        "directory": ".vercel/output/static",
         "binding": "ASSETS"
     },
     "build": {
-        "command": "npm --prefix frontend install && npm --prefix frontend run pages:build",
-        "watch_dir": "frontend/src"
+        "command": "npm install && npm run pages:build",
+        "watch_dir": "src"
     }
 }

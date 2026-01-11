@@ -8,8 +8,8 @@ import { useRouter } from "next/navigation";
 
 // Initialize Supabase client
 const supabase = createClient(
-    process.env.NEXT_PUBLIC_SUPABASE_URL!,
-    process.env.NEXT_PUBLIC_SUPABASE_ANON_KEY!
+    process.env.NEXT_PUBLIC_SUPABASE_URL || "https://example.com",
+    process.env.NEXT_PUBLIC_SUPABASE_ANON_KEY || "placeholder"
 );
 
 export default function AdvertisePage() {

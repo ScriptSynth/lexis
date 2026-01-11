@@ -16,8 +16,8 @@ const AuthContext = createContext<AuthContextType>({
 });
 
 const supabase = createClient(
-    process.env.NEXT_PUBLIC_SUPABASE_URL!,
-    process.env.NEXT_PUBLIC_SUPABASE_ANON_KEY!
+    process.env.NEXT_PUBLIC_SUPABASE_URL || "https://example.com",
+    process.env.NEXT_PUBLIC_SUPABASE_ANON_KEY || "placeholder"
 );
 
 export function AuthProvider({ children }: { children: React.ReactNode }) {

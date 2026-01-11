@@ -1,0 +1,818 @@
+[
+    {
+        "source": "New York Times",
+        "headline": "Contact The New York Times",
+        "summary": "We are currently experiencing system issues.\nPlease try again at a later time.",
+        "url": "https://help.nytimes.com/hc/en-us/articles/115015385887-Contact-The-New-York-Times",
+        "image": "https://static.helpjuice.com/helpjuice_production/uploads/question/preview_image/26353/3151568/preview-963712a8b17e61e894339484b214710d20250714-2-wkr4h9.png",
+        "date": "2026-01-10T02:53:51.061533+00:00"
+    },
+    {
+        "source": "Hacker News",
+        "headline": "RTX 5090 + Raspberry Pi: Can it Game?",
+        "summary": "The Raspberry Pi 5 under FEX seems to have similar performance to a 2008 Intel Core 2 Quad Q9650.\nCouldn’t get the windowed mode to work right on this one, but I swear it’s running on the Raspberry Pi 5.\nMost importantly, the Raspberry Pi 5 can play this game at 4K resolution, way above 60 FPS.\nSo, can you game on a Raspberry Pi 5 with an RTX 5090?\nThe ROCK 5B edges out the Raspberry Pi 5 slightly in most benchmarks, but not by much.",
+        "url": "https://scottjg.com/posts/2026-01-08-crappy-computer-showdown/",
+        "image": "https://scottjg.com/hero-5090-and-rpi5.jpg",
+        "date": "2026-01-08T00:00:00+00:00"
+    },
+    {
+        "source": "Hacker News",
+        "headline": "How Markdown took over the world",
+        "summary": "For example, as I’m writing this right now, if I want to put a big headline on this page, I can just type #How Markdown Took Over the World and the right thing will happen.\nAnd some of the repositories on GitHub consist of nothing but massive collections of Markdown files.\nAs a result, there are now billions of Markdown files lying around on hard drives around the world.\nYour kid’s Nintendo Switch has Markdown files on it.\nAnd all of it — all of it — is controlled through Markdown files.",
+        "url": "https://www.anildash.com/2026/01/09/how-markdown-took-over-the-world/",
+        "image": "https://www.anildash.com/images/imac-g4-markdown.jpg",
+        "date": "2026-01-09T00:00:00+00:00"
+    },
+    {
+        "source": "Hacker News",
+        "headline": "QtNat – Open you port with Qt – Renaud Guezennec",
+        "summary": "QtNat is a lightweight C++ library built with Qt 6 that simplifies NAT port mapping using UPnP (Universal Plug and Play).\nBy leveraging UPnP, QtNat automatically communicates with compatible routers to create port forwarding rules at runtime.\nUse itUpnpNat nat; QObject::connect(&nat, &UpnpNat::statusChanged, [&nat, &app]() { switch(nat.status()) { case UpnpNat::NAT_STAT::NAT_IDLE: case UpnpNat::NAT_STAT::NAT_DISCOVERY: case UpnpNat::NAT_STAT::NAT_GETDESCRIPTION: case UpnpNat::NAT_STAT::NAT_DESCRIPTION_FOUND: break; case UpnpNat::NAT_STAT::NAT_FOUND: nat.requestDescription(); break; case UpnpNat::NAT_STAT::NAT_READY: nat.addPortMapping(\"UpnpTest\", nat.localIp(), 6664, 6664, \"TCP\"); break; case UpnpNat::NAT_STAT::NAT_ADD: qDebug() << \"It worked!\nRequest Description fileSimple request using QNetworkAccessManager.\nDevices: constexpr auto deviceType1{\"urn:schemas-upnp-org:device:InternetGatewayDevice\"}; constexpr auto deviceType2{\"urn:schemas-upnp-org:device:WANDevice\"}; constexpr auto deviceType3{\"urn:schemas-upnp-org:device:WANConnectionDevice\"}; Services: constexpr auto serviceTypeWanIP{\"urn:schemas-upnp-org:service:WANIPConnection\"}; constexpr auto serviceTypeWANPPP{\"urn:schemas-upnp-org:service:WANPPPConnection\"}; */ m_controlUrl = /* Most important thing to find the controlUrl of the proper service.",
+        "url": "http://renaudguezennec.eu/index.php/2026/01/09/qtnat-open-you-port-with-qt/",
+        "image": "",
+        "date": "2026-01-09T00:00:00+00:00"
+    },
+    {
+        "source": "New York Times",
+        "headline": "The New York Times Company Privacy Policy",
+        "summary": "We do this for the purposes of improving Times Services, for marketing research, to personalize marketing of Times Services to you and/or to create audiences for third party advertisers.\nThis allows us to understand how users interact with Times Services and to improve and develop Times Services, including testing new features, research, surveys, analysis, and product development.\n(H) We Advertise or Market Times Services to YouWe market our Times Services to you.\nThe New York Times Company is referred to in this Privacy Policy as “The Times,” “we” or “our.”Certain Times Services operate as independent controllers of your personal information.\nWith respect to The Athletic Services, The Athletic Media Company and its subsidiaries are referred to in this Privacy Policy as included in “The Times,” “we” or “our.” In this Privacy Policy, The Athletic Services are included under “Times Services.”",
+        "url": "https://help.nytimes.com/hc/en-us/articles/10940941449492-The-New-York-Times-Company-Privacy-Policy",
+        "image": "https://static.helpjuice.com/helpjuice_production/uploads/question/preview_image/26353/3151547/preview-8dcb83bf00991dda08b09bd2dbf154bd20251219-2-f5xnn7.png",
+        "date": "2026-01-10T02:53:54.054736+00:00"
+    },
+    {
+        "source": "New York Times",
+        "headline": "Miami vs. Ole Miss Playoff semifinal proves CFB is better when more teams settle it on field",
+        "summary": "6 seed Ole Miss here Thursday, I couldn’t help thinking, I can’t believe we almost left these guys out.\nYou had to be perfect most years; his 10-1 team in 2000 got left out for an 11-1 Florida State team the Canes beat.\nTo be clear, all those Alabama/Clemson/Georgia teams of the four-team era were really good teams and worthy champions.\nIf we still had a four-team Playoff this season, this Miami-Ole Miss Fiesta Bowl would have been an undercard New Year’s Six bowl.\n“The more we can give teams an opportunity to do that, it makes the sport better.”Early returns suggest he’s correct.",
+        "url": "https://www.nytimes.com/athletic/6956944/2026/01/09/miami-ole-miss-college-football-playoff-expansion/",
+        "image": "https://static01.nyt.com/athletic/uploads/wp/2026/01/09022210/GettyImages-2255326340-scaled.jpg?width=1200&height=630&fit=cover",
+        "date": "2026-01-09T00:00:00+00:00"
+    },
+    {
+        "source": "New York Times",
+        "headline": "The SEC is out of the College Football Playoff again. Now comes the adjustment",
+        "summary": "AdvertisementIn fact, Ole Miss being the last SEC team standing was perfect symbolism.\nThere was Paul Finebaum, voice of the SEC Network and basically the SEC, saying there was no defense for the conference’s 2-7 bowl record, including Alabama’s loss to Indiana in the College Football Playoff.\n“There’s no getting around the bowl results,” one conference source said, noting that SEC teams lost games they were favored to win.\nThe world is flat now, and too many SEC teams were slow to react.\n• This year, 13 different SEC teams signed at least one top 100 player, and five different teams signed at least one top 25 player.",
+        "url": "https://www.nytimes.com/athletic/6956702/2026/01/09/sec-ole-miss-playbook-adjustment/",
+        "image": "https://static01.nyt.com/athletic/uploads/wp/2026/01/09000909/GettyImages-2255322899-scaled.jpg?width=1200&height=630&fit=cover",
+        "date": "2026-01-09T00:00:00+00:00"
+    },
+    {
+        "source": "New York Times",
+        "headline": "College Football Playoff 2025 bracket projections: Who’s the national title favorite?",
+        "summary": "Certain graphics on this page may be affected by ad-blocking software.\nIf portions of the page appear blank and an ad blocker is enabled, please disable the ad blocker and refresh the page to ensure full access to the content.",
+        "url": "https://www.nytimes.com/athletic/6560541/2026/01/08/college-football-playoff-bracket-projections-odds/",
+        "image": "https://static01.nyt.com/athletic/uploads/wp/2025/08/20191438/0721_CFP_Bracket.png?width=1200&height=630&fit=cover",
+        "date": "2026-01-08T00:00:00+00:00"
+    },
+    {
+        "source": "Engadget",
+        "headline": "Engadget's best of CES 2026: All the new tech that caught our eye in Las Vegas",
+        "summary": "— Devindra Hardawar, Senior reporterBest smart home: IKEA Matter-compatible smart homeIKEA KAJPLATS smart bulb range (IKEA)The best smart home devices I saw at CES had nothing to do with AI or robots.\n— Billy Steele, Deputy editorBest toy: Lego Smart PlayLego Smart Play (Lego)Lego is constantly evolving, but rarely does it make as big a move as it did with Smart Play.\nUnsurprisingly, Lego introduced the Smart Play system alongside Star Wars sets that make these new immersive elements more obvious.\nAnnounced at its first-ever CES press conference, Smart Play represents a thoughtful integration of technology to the classic toy.\nAmid parental anxieties about screentime, it's refreshing that Smart Play doesn't require an app or a screen to get started.",
+        "url": "https://www.engadget.com/engadgets-best-of-ces-2026-all-the-new-tech-that-caught-our-eye-in-las-vegas-200057123.html",
+        "image": "https://s.yimg.com/ny/api/res/1.2/dDJKIL2MhPJbmk7F3XjbXQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03MjA-/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/bestoflede.jpg",
+        "date": "2026-01-08T20:00:57+00:00"
+    },
+    {
+        "source": "Engadget",
+        "headline": "CES 2026 proved the PC industry is hosed this year",
+        "summary": "At CES 2026, it was hard not to notice the dire year ahead for the computing industry, one that will likely lead to higher prices and more limited availability for consumer goods across the board.\nReally, though, the show just confirmed what was apparent since RAM prices skyrocketed over the last few months, driven by demand from AI datacenters.\nEvery PC maker I’ve asked, including Dell and Acer, refused to comment on the volatile state of the memory industry ahead of CES.\nCES 2026 is winding down in Las Vegas, and Team Engadget is finishing a week that saw hundreds of announcements from major brands including Lenovo, Samsung, LG, NVIDIA and more.\nSee what we named as the Best of CES 2026, then scroll back on our CES 2026 liveblog to see how events progressed throughout the week.",
+        "url": "https://www.engadget.com/computing/ces-2026-proved-the-pc-industry-is-hosed-this-year-174500314.html",
+        "image": "https://s.yimg.com/ny/api/res/1.2/O5vGXdxjU3CGCEm40d6u6g--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02MjI-/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/Jensen_Rubin.jpg",
+        "date": "2026-01-09T17:45:00+00:00"
+    },
+    {
+        "source": "Engadget",
+        "headline": "The Clicks co-founder explains who its tiny Communicator phone is for",
+        "summary": "At first glance, the $79 Power Keyboard feels like a big improvement over the original Clicks Keyboard case.\nThe keyboard itself is similar to the original Clicks keyboard, but there’s a dedicated number row which is a nice improvement.\nThe magnetic, sliding Clicks Power Keyboard.\nThe Clicks Power Keyboard, without a phone attached.\nThe Clicks Communicator has an LED Light on its side button that you can customize for different notifications.",
+        "url": "https://www.engadget.com/mobile/the-clicks-co-founder-explains-who-its-tiny-communicator-phone-is-for-170000501.html",
+        "image": "https://s.yimg.com/ny/api/res/1.2/IHSOcv2OKj4Ac3Jq5FDvyA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/DSCF9214.jpg",
+        "date": "2026-01-09T17:00:00+00:00"
+    },
+    {
+        "source": "Engadget",
+        "headline": "The weirdest tech we've seen at CES 2026 so far",
+        "summary": "Also, be sure to check out our list of the best CES tech we saw this year at the show.\nLenovo Legion Pro RollableWhile it normally has a 16-inch display, the Lenovo Legion Pro Rollable concept's screen can expand up to 23.8 inches across.\n(Sam Rutherford for Engadget)Lenovo’s Legion Pro Rollable is what happens when a gaming laptop decides it wants to be a widescreen monitor mid-match.\n(Sam Rutherford for Engadget)If the Legion Pro Rollable is excessive, the ThinkBook XD Rollable is philosophically confusing.\nSee what we named as the Best of CES 2026, then scroll back on our CES 2026 liveblog to see how events progressed throughout the week.",
+        "url": "https://www.engadget.com/the-weirdest-tech-weve-seen-at-ces-2026-so-far-134056504.html",
+        "image": "https://s.yimg.com/ny/api/res/1.2/16YMRuqtfdyZ7lZtz_U_ww--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03MjA-/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/ces-weird1.jpg",
+        "date": "2026-01-08T13:40:56+00:00"
+    },
+    {
+        "source": "Mashable",
+        "headline": "Best of CES 2026 awards announced: How to see the nominees, find out the winners",
+        "summary": "From cutting-edge AI and robotics to TVs, laptops, and some truly weird tech, CES 2026 delivered no shortage of bold claims and ambitious hardware.\nNow, the CNET Group is excited to announce our official Best of CES 2026 winners and finalists.\nThe official Best of CES 2026 winners were announced live today, Wednesday, Jan. 7, at 4 p.m. PST on the CTA stage at the LVCC Central Hall Grand Lobby.\nHere are all the finalists and winners of Best of CES 2026.\nBest of CES 2026 WinnersBest Age TechTombot Jennie (WINNER) Tombot's Jennie has been capturing hearts at CES for years, but the realistic robot puppy is finally launching in 2026.",
+        "url": "https://mashable.com/article/best-of-ces-2026-awards-finalists",
+        "image": "https://helios-i.mashable.com/imagery/articles/01QeLNoMsJWyI9RBdpwjFYP/hero-image.fill.size_1200x675.v1767825946.jpg",
+        "date": "2026-01-07T18:29:24+00:00"
+    },
+    {
+        "source": "Engadget",
+        "headline": "This Apple 25W MagSafe charger is on sale for only $30",
+        "summary": "If you want a wireless charger for your iPhone and prefer to stick with Apple, Amazon has a sale that may pique your interest.\nThe retailer is selling the one meter Apple Magsafe charger for $30, saving you $10 off the regular price, while also selling the two meter model for $40 ($10 off).\nWhile you'll need a more recent iPhone to get the fastest MagSafe charging speeds, the charger can wirelessly top up the battery of any iPhone from the last eight years (iPhone 8 and later).\nThe cable works with AirPods wireless charging cases too — it's certified for Qi2.2 and Qi charging.\nThe MagSafe charger is one of our favorite iPhone accessories, and would pair quite nicely with your new iPhone if you're picking up one of the latest models.",
+        "url": "https://www.engadget.com/deals/this-apple-25w-magsafe-charger-is-on-sale-for-only-30-141707593.html",
+        "image": "https://s.yimg.com/ny/api/res/1.2/nS9YQ.CdULPSKWdbKx5pGQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzE-/https://s.yimg.com/os/creatr-uploaded-images/2026-01/3fcbc210-ea40-11f0-bffb-eb83ba1c6ec8",
+        "date": "2026-01-05T14:17:07+00:00"
+    },
+    {
+        "source": "Engadget",
+        "headline": "It's time for Apple to reinstate ICEBlock",
+        "summary": "In October, Apple caved to pressure from the Trump administration and removed ICEBlock — and similar apps which crowdsourced the location of Immigrations and Customs Enforcement activity — from its App Store.\nBut armed-to-the-teeth ICE officers don’t need protection from civilians.\nFor example, when government regulations push for openness or interoperability, Apple warns of the security and privacy risks for its users.\nAnd Apple has decided the theoretical safety of ICE officers is more valuable than the very real threat they pose to the communities they harass.\nEngadget has reached out to Apple for comment on reinstating ICEBlock; we’ll update if we receive a response.",
+        "url": "https://www.engadget.com/big-tech/its-time-for-apple-to-reinstate-iceblock-220802356.html",
+        "image": "https://s.yimg.com/ny/api/res/1.2/6WZYzRH0XauOb7LT8zKIIg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://d29szjachogqwa.cloudfront.net/images/2026-01/a84adce8-6e43-443b-a28d-24d5f68dd5f9",
+        "date": "2026-01-09T22:08:02+00:00"
+    },
+    {
+        "source": "Engadget",
+        "headline": "Amazon is apparently planning a big box store in the Chicago suburbs",
+        "summary": "Amazon is making a return, of sorts, to physical retail via plans to build a big-box retail store in the Chicago suburbs, The Information reports.\nThe new store will offer in-store shopping, but also act as a fulfillment center for online orders, which could make it similar to competitors like Target and Walmart, and some of Amazon's existing Whole Foods and Amazon Fresh locations.\nWhile best known as an online marketplace, Amazon has made multiple attempts to have a physical retail presence.\nAmazon has abandoned basically all those experiments in favor of sticking with the grocery brand it bought in 2017, Whole Foods, and the new one it’s formed in the years since, Amazon Fresh.\nThis new store could be an entirely new concept, or an evolution of Amazon Fresh, but whatever it is, it'll have to be approved by the Orland Park Village Board to move forward, according to the Chicago Tribune.",
+        "url": "https://www.engadget.com/big-tech/amazon-is-apparently-planning-a-big-box-store-in-the-chicago-suburbs-213451978.html",
+        "image": "https://s.yimg.com/ny/api/res/1.2/4buZg8V7n9Smnl9_KNEziw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2025-12/30fd9a80-e4b7-11f0-99bf-6205ff1df0db",
+        "date": "2026-01-09T21:34:51+00:00"
+    },
+    {
+        "source": "Engadget",
+        "headline": "CES 2026: Live updates on the latest gadgets at the biggest tech event of the year",
+        "summary": "So here I am now to tell you all about how they felt on my face.\nHere’s what I look like with both of them on but just one turned on:A person with the Loreal LED Eye masks on, with the one under her left eye turned on.\nI was able to put on the under eye masks, and L'Oréal supplied some adhesive patches to put between the masks and my skin.\nNot having each of these be connected by cables to a power unit makes them so much easier to use.\nRead more: L'Oréal’s CES 2026 beauty devices include a skin-like flexible LED mask",
+        "url": "https://www.engadget.com/ces-2026-live-updates-on-the-latest-gadgets-at-the-biggest-tech-event-of-the-year-153146311.html",
+        "image": "https://s.yimg.com/ny/api/res/1.2/S_ilZvH07HwDnnQnQalzSg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/5114341387456416647_%281%29.jpg",
+        "date": "2026-01-05T15:31:46+00:00"
+    },
+    {
+        "source": "Engadget",
+        "headline": "Monarch Money's budgeting app is 50 percent off for new users",
+        "summary": "To save yourself some money in the process, you can pick up a year-long subscription to Monarch Money , one of Engadget's favorite budgeting apps , for just $50 if you use code NEWYEAR2026 at checkout and you're a new subscriber.\nMonarch Money makes for a capable and detailed budgeting companion.\nLike other budgeting apps, Monarch Money lets you connect multiple financial accounts and track your money based on where you spend it over time.\nAdvertisement AdvertisementThe main drawbacks Engadget found in testing Monarch Money were the app's learning curve, and the differences in features (and bugginess) between Monarch's web and mobile versions.\nStill, for 50 percent off, the Monarch Money is well worth experimenting with if you're trying to save money in 2026, especially if you want to do it collaboratively with a partner.",
+        "url": "https://www.engadget.com/apps/monarch-moneys-budgeting-app-is-50-percent-off-for-new-users-204507740.html",
+        "image": "https://s.yimg.com/ny/api/res/1.2/BVaumjj63Wslrlk.3vNCzA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2026-01/7d8addb0-ed98-11f0-bfff-a0653e295072",
+        "date": "2026-01-09T20:45:07+00:00"
+    },
+    {
+        "source": "Engadget",
+        "headline": "The Morning After: The best of CES 2026",
+        "summary": "That includes our picks for the best of CES.\nRead on for some of the best things to come out of Las Vegas this week, but first up, our Best of the Best winner, which was Lego Smart Play.\nLegoThe system consists of a Smart Brick, Tags and Minifigures.\nThe Smart Brick has a 4.1mm ASIC chip, which Lego says is smaller than a standard Lego stud.\nOne of the first sets, with a smart Darth Vader Minifigure, one Smart Brick and one Smart Tag, is $70.",
+        "url": "https://www.engadget.com/general/the-morning-after-engadget-newsletter-193045065.html",
+        "image": "https://s.yimg.com/ny/api/res/1.2/_ebdNl_qNSiaWMqkbF33QA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/sharpa.JPG",
+        "date": "2026-01-09T19:30:45+00:00"
+    },
+    {
+        "source": "Mashable",
+        "headline": "CES 2026: The weirdest tech we saw",
+        "summary": "CES 2026 has had some truly strange tech.\nWe here at Mashable are lovers of weird tech and odd gadgets, and, thankfully, CES 2026 has not disappointed thus far.\nCheck out the full list of Best of CES 2026 finalists, as selected by CNET Group, here.\nWant to see more of the best in weird tech at CES 2026?\nHead to the Mashable CES 2026 hub for the latest news and live updates from the biggest show in tech, where Mashable journalists are reporting live.",
+        "url": "https://mashable.com/article/ces-2026-weird-tech",
+        "image": "https://helios-i.mashable.com/imagery/articles/072DGH89cKcfrrbdwYwFeU0/hero-image.fill.size_1200x675.v1767946689.jpg",
+        "date": "2026-01-09T11:42:47+00:00"
+    },
+    {
+        "source": "ABC News International",
+        "headline": "Watch TV Shows, Movies, Specials, Live Cricket & Football",
+        "summary": "",
+        "url": "https://www.disneyplus.com/browse/entity-7c160b55-f261-476a-b3f7-f3a6b083cba2?cid=DTCI-Site-ABCNews-Site-Awareness-DisneyPlus-US-DisneyPlus-NA-EN-NavLink-NA-NA",
+        "image": "https://secure-media.hotstar.com/web-assets/prod/jhs_favicon.ico",
+        "date": "2026-01-10T02:55:08.442635+00:00"
+    },
+    {
+        "source": "Mashable",
+        "headline": "CES 2026 highlights: 10+ new gadgets you can already buy",
+        "summary": "That's the most info we have about a good chunk of products announced at CES 2026 so far.\nAs of Jan. 9, the last official day of CES, several of our favorite new gadgets are already available to buy (or at least preorder).\nDuRoBo unveiled its 6.1-inch Krono e-reader at CES 2026, and several specs make it a worthy Kindle or Kobo alternative.\nThe 2026 XPS PCs are Dell's thinnest ever at these sizes, with the XPS logo cemented on the lid of each.\nHonorable mention: Birdfy Bath ProThough we were first introduced to the Birdfy Bath Pro at CES 2025, it still made an appearance at Birdfy's CES 2026 booth — complete with a sign showcasing its 2026 Innovation Award.",
+        "url": "https://mashable.com/article/ces-2026-gadgets-you-can-buy",
+        "image": "https://helios-i.mashable.com/imagery/articles/04ikMNmEkW7LNBvHL8IQEiy/hero-image.fill.size_1200x675.v1767642888.png",
+        "date": "2026-01-09T21:02:40+00:00"
+    },
+    {
+        "source": "Mashable",
+        "headline": "What's new to streaming this week? (Jan. 9, 2026)",
+        "summary": "Streaming subscribers are spoiled for choice between Hulu, Netflix, HBO Max, Disney+, Apple TV, Prime Video, Shudder, Paramount+, Peacock, and more.\nBut if you're seeking something brand new (or just new to streaming), we've got you covered there, too.\nHow to watch: Zodiac Killer Project is now available for rental or purchase on Apple TV.\nThen you need to watch Predator: Badlands, the latest film from the franchise's excellent new shepherd Dan Trachtenberg (Prey).\nStarring: Dimitrius Schuster-Koloamatangi and Elle FanningHow to watch: Predator: Badlands is now available for rental or purchase on Prime Video.",
+        "url": "https://mashable.com/article/new-to-streaming-january-9-2026",
+        "image": "https://helios-i.mashable.com/imagery/articles/067l19kBHJNn6gyjHvMmSYQ/hero-image.fill.size_1200x675.v1767633388.jpg",
+        "date": "2026-01-08T10:00:00+00:00"
+    },
+    {
+        "source": "Mashable",
+        "headline": "NYT Connections hints and answers for January 9, Tips to solve 'Connections' #943.",
+        "summary": "Everything you need to solve 'Connections' #943.\nThe NYT Connections puzzle today is not too difficult to solve if you're good with direction.\nIf you just want to be told today's puzzle, you can jump to the end of this article for today's Connections solution.\nThen give these a try:Yellow: Same-coloredGreen: A pickleBlue: Famous musiciansPurple: Found on a compassHere are today's Connections categoriesNeed a little extra help?\nThis is your last chance to turn back and solve today's puzzle before we reveal the solutions.",
+        "url": "https://mashable.com/article/nyt-connections-hint-answer-today-january-9-2026",
+        "image": "https://helios-i.mashable.com/imagery/articles/04eRU8kTvnTAVnbG9mUi65S/hero-image.fill.size_1200x675.v1767822575.jpg",
+        "date": "2026-01-09T03:00:00+00:00"
+    },
+    {
+        "source": "Mashable",
+        "headline": "NYT Connections hints and answers for January 8, Tips to solve 'Connections' #942.",
+        "summary": "Everything you need to solve 'Connections' #942.\nThe NYT Connections puzzle today is not too difficult to solve if you have a sweet tooth.\nIf you just want to be told today's puzzle, you can jump to the end of this article for today's Connections solution.\nThen give these a try:Yellow: Bodily responseGreen: Small crimesBlue: A crankPurple: ChocolateHere are today's Connections categoriesNeed a little extra help?\nThis is your last chance to turn back and solve today's puzzle before we reveal the solutions.",
+        "url": "https://mashable.com/article/nyt-connections-hint-answer-today-january-8-2026",
+        "image": "https://helios-i.mashable.com/imagery/articles/075qU7nn5dF5vaSyqsK5KYC/hero-image.fill.size_1200x675.v1767721767.jpg",
+        "date": "2026-01-08T09:24:54+00:00"
+    },
+    {
+        "source": "Mashable",
+        "headline": "Oregon vs. Indiana 2026 livestream: Watch college playoff games for free",
+        "summary": "If you want to watch Oregon vs. Indiana for free from anywhere in the world, here's all the information you need.\nESPN Unlimited (no free trial)Channels: ESPN, ESPN2, ESPNU, ESPNEWS, ESPN Deportes, SEC Network, ACC Network, ESPN on ABC, ESPN+, ESPN3, SECN+, and ACCNXESPN Unlimited provides access to everything that ESPN has to offer.\nFor college football, you get live access to games on ESPN, ESPN2, ESPNU, ESPN+, SEC Network, SECN+, ACC Network, and ABC.\nBut hardcore fans may want to consider upgrading to the Elite plan, which unlocks access to ESPNU, SEC Network, Pac-12 Network, and ACC Network.\nThe included access to ESPN+ provides bonus access to even more college football games on top of live TV networks like ABC, FOX, ESPN, The CW, ACC Network, and more.",
+        "url": "https://mashable.com/article/oregon-indiana-college-football-2026-live-stream-for-free",
+        "image": "https://helios-i.mashable.com/imagery/articles/05DELama6qFkWFLYB78T13Y/hero-image.fill.size_1200x675.v1767868506.jpg",
+        "date": "2026-01-09T10:00:00+00:00"
+    },
+    {
+        "source": "Mashable",
+        "headline": "CES 2026: I tried Xreal's unreleased ROG R1 gaming glasses",
+        "summary": "Smart glasses have been a big draw among the throngs of attendees on CES' packed convention floor this year, and I’ve probably tried on 12 different smart glasses since arriving in Las Vegas.\nXreal debuted two new pairs of AR glasses for CES 2026: the Xreal 1S and the ROG Xreal R1 AR gaming glasses.\nI’ve always been transparent about the fact that I’m extremely skeptical of smart glasses, especially if they have onboard cameras.\nI tried the ROG Xreal R1 AR gaming glasses at CESCredit: Mashable composite: Xreal / Asus ROG; Timothy Werth / MashableI got to try the unreleased R1 glasses during a demo at CES, tethered to the new ROG Xbox Ally X gaming handheld.\nPlaying 'Elden Ring' with the new R1 gaming glasses.",
+        "url": "https://mashable.com/article/ces-2026-xreal-1s-asus-r1-ar-smart-glasses-hands-on",
+        "image": "https://helios-i.mashable.com/imagery/articles/06PYs8wMBypvN34Ko0Tk21G/hero-image.fill.size_1200x675.v1767940022.jpg",
+        "date": "2026-01-09T13:00:00+00:00"
+    },
+    {
+        "source": "Mashable",
+        "headline": "CES 2026: TDM’s Neo headphones turn into speakers with a simple twist",
+        "summary": "Are they headphones that turn into speakers or speakers that turn into headphones?\nWhen it comes to the coolest things at CES, look no further than the TDM Neo Hybrid Headphone Speakers.\nWhen it comes to the coolest things at CES, look no further than the TDM Neo Hybrid Headphone Speakers.\nTDM Neo Hybrid Headphone Speakers as headphones Credit: MashableThe implementation of transitioning from headphones to speaker and vice versa was so simple, and more importantly, felt seamless.\nTwisting the TDM Neo Hybrid Headphone Speakers look really slick Credit: MashableThe TDM Neo Hybrid Headphone Speakers will go on sale later this month for $249, with black and white color options available.",
+        "url": "https://mashable.com/article/ces-2026-tdm-neo-hybrid-headphone-speakers",
+        "image": "https://helios-i.mashable.com/imagery/articles/07DV5THc7G73RTbLmTYqkk9/hero-image.fill.size_1200x675.v1767991477.jpg",
+        "date": "2026-01-09T21:23:28+00:00"
+    },
+    {
+        "source": "Mashable",
+        "headline": "Gmail launches AI inbox and overviews with Gemini",
+        "summary": "Now Gmail is apparently \"entering the Gemini era\" officially with an inbox assistant, according to a blog post by Gmail's VP of product, Blake Barnes, published yesterday.\nOne feature Gmail's launching is AI Overviews, which summarize information in your inbox, apparently building on the already-launched autogenerated email summaries.\nAI Overview can also be able to answer questions about what's in your inbox, but this feature will only be available to Google AI Pro and Ultra subscribers.\nAI Inbox, another addition, is designed to \"filter out the clutter\" so you can focus on the most important emails.\nGmail also now features a Proofread tool for grammar, tone, and style — but this is only available to Google AI Pro and Ultra subscribers.",
+        "url": "https://mashable.com/article/gmail-launches-gemini-ai-inbox-overviews",
+        "image": "https://helios-i.mashable.com/imagery/articles/02TQQtBoEJGsFKcQXEM8vZo/hero-image.fill.size_1200x675.v1767976759.jpg",
+        "date": "2026-01-09T17:17:49+00:00"
+    },
+    {
+        "source": "ABC News International",
+        "headline": "Minneapolis ICE shooting live updates: New video shows different vantage point",
+        "summary": "ABC News has obtained a cellphone video showing the moments leading up to the shooting of Renee Good in her vehicle and through the shots being fired from a different vantage point.\n15:45 Cellphone video from officer shows moment of fatal shooting of Renee Good Newly obtained video by ABC News shows the moments leading up to the fatal shooting of Renee Good.\nIn the video, Good can be heard saying, \"That's fine, dude, I'm not mad at you,\" as the ICE agent walks around filming her vehicle in the road.\nA newly obtained cellphone video shows the moments before Renee Good was fatally shot in her car in Minneapolis on Jan. 7, 2026.\nObtained by ABC NewsAnother ICE agent approaches her door and can be heard saying, \"Get out of the car.",
+        "url": "https://abcnews.go.com/US/live-updates/minneapolis-ice-shooting-live-updates-tensions-flare-minneapolis/?id=129018634",
+        "image": "https://i.abcnewsfe.com/a/3f6dadf1-aad6-49c9-835d-3e8b6e5c9740/minn-13-ht-gmh-260109_1767987174996_hpMain_16x9.jpg?w=1600",
+        "date": "2026-01-10T02:55:09.621474+00:00"
+    },
+    {
+        "source": "ABC News International",
+        "headline": "Flu activity continues to climb in US with at least 15 million cases: CDC",
+        "summary": "At least 180,000 hospitalizations have been recorded, CDC data shows.\nFlu activity continues to climb in US with at least 15 million cases: CDCFlu activity remains elevated throughout the United States, with children being hit especially hard, according to newly released data from the Centers for Disease Control and Prevention.\nCDC data shows that 26 states are currently seeing \"very high\" levels of flu-like illnesses while 16 states are seeing \"high\" levels.\nRecently, a top epidemiologist at CDC told ABC News that flu activity could continue to increase in the U.S. over the next few weeks.\nNew York City was one of the first areas of the country to see \"very high\" levels of flu activity -- as classified by the CDC -- and has been dealing with an early and significant uptick in flu cases.",
+        "url": "https://abcnews.go.com/Health/flu-activity-continues-climb-us-15-million-cases/story?id=129052785",
+        "image": "https://i.abcnewsfe.com/a/c01d7231-8f08-4b92-859e-7c9f2b9f9191/flu-symptoms-1-as-gmh-251124_1763995177833_hpMain_16x9.jpg?w=1600",
+        "date": "2026-01-10T02:55:10.724604+00:00"
+    },
+    {
+        "source": "ABC News International",
+        "headline": "Russia uses nuclear-capable missile in 'massive strike' on Ukraine",
+        "summary": "TOPSHOT - Smoke rises from a building after Russia launched an attack with drones and missiles on Kyiv on January 9, 2026, amid the Russian invasion of Ukraine.\nTOPSHOT - Smoke rises from a building after Russia launched an attack with drones and missiles on Kyiv on January 9, 2026, amid the Russian invasion of Ukraine.\nTOPSHOT - Smoke rises from a building after Russia launched an attack with drones and missiles on Kyiv on January 9, 2026, amid the Russian invasion of Ukraine.\nRussia attacked Ukraine overnight with a massive barrage of 242 drones and 36 missiles, including one that was nuclear-capable, the Ukrainian Air Force said Friday morning.\nEugene Kotenko/AFP via Getty ImagesUkrainian Foreign Minister Andrii Sybiha said Russia used the intermediate-range ballistic missile (IRBM) on the Lviv region in western Ukraine.",
+        "url": "https://abcnews.go.com/International/russia-irbm-massive-strike-ukraine-overnight/story?id=129048949",
+        "image": "https://i.abcnewsfe.com/a/7a2469b0-ccb9-4829-b37a-47b6fb1803ed/irbm-attack_1767947447175_hpMain_16x9.jpg?w=1600",
+        "date": "2026-01-10T02:55:11.945987+00:00"
+    },
+    {
+        "source": "ABC News International",
+        "headline": "Grandmother who died from shark attack in US Virgin Islands was 'genuinely kind': Neighbor",
+        "summary": "Grandmother who died from shark attack in US Virgin Islands was 'genuinely kind': NeighborArlene Lillis is seen in an undated photo.\nArlene Lillis is seen in an undated photo.\nArlene Lillis is seen in an undated photo.\nA 56-year-old Minnesota woman died from a shark attack Thursday afternoon at Dorsch Beach in the U.S. Virgin Islands, according to officials.\nEmergency services received multiple calls around 4:28 p.m. reporting that a woman had been bitten while in the water, the Virgin Islands Police Department said.",
+        "url": "https://abcnews.go.com/US/minnesota-woman-dead-after-suspected-shark-attack-us/story?id=129048362",
+        "image": "https://i.abcnewsfe.com/a/f386b644-bc42-4f77-bf04-a3f8f19bd490/arlene-2-ht-er-260109_1768003225419_hpMain_16x9.jpg?w=1600",
+        "date": "2026-01-10T02:55:13.414514+00:00"
+    },
+    {
+        "source": "ABC News International",
+        "headline": "Hiring slowed in December, defying Federal Reserve's effort to boost labor market",
+        "summary": "The Fed has cut interest rates in an effort to revive an ailing labor market.\nHiring ticked down in December, defying the Federal Reserve's effort to boost hiring with a recent series of interest rate cuts, a jobs report on Friday showed.\nThe U.S. added 50,000 jobs in December, which marked a slight drop from 64,000 jobs added in the previous month.\nFutures markets expect two quarter-point interest rate cuts this year, forecasting the first in April and a second in the fall, according to CME FedWatch Tool, a measure of market sentiment.\nAfter the Fed's most recent rate cut in December, Fed Chair Jerome Powell suggested the central bank may be cautious about further rate reductions.",
+        "url": "https://abcnews.go.com/Business/jobs-report-expected-show-uptick-hiring-fed-cuts/story?id=129013718",
+        "image": "https://i.abcnewsfe.com/a/5acc49ae-db3e-4a08-9943-a9f4faf921c8/restaurant-new-york-gty-jt-260108_1767906610388_hpMain_16x9.jpg?w=1600",
+        "date": "2026-01-10T02:55:14.891042+00:00"
+    },
+    {
+        "source": "ABC News International",
+        "headline": "Venezuela live updates: US forces board 5th oil tanker linked to Venezuela",
+        "summary": "Marines and sailors from Joint Task Force Southern Spear apprehended Motor/Tanker Olina in the Caribbean Sea , Jan. 9, 2026.\nMarines and sailors from Joint Task Force Southern Spear apprehended Motor/Tanker Olina in the Caribbean Sea , Jan. 9, 2026.\nMarines and sailors from Joint Task Force Southern Spear apprehended Motor/Tanker Olina in the Caribbean Sea , Jan. 9, 2026.\nMarines and sailors from Joint Task Force Southern Spear apprehended Motor/Tanker Olina in the Caribbean Sea , Jan. 9, 2026.\nFollowing the operation, President Donald Trump said that the U.S. would \"run\" Venezuela for an unspecified \"period of time.\"",
+        "url": "https://abcnews.go.com/International/live-updates/venezuela-live-updates-trump-give-details-after-us/?id=127792811",
+        "image": "https://i.abcnewsfe.com/a/da9c81a7-4c29-4b96-b307-0ef922c33454/Olina-1-ht-gmh-260109_1767968654937_hpMain_16x9.jpg?w=1600",
+        "date": "2026-01-10T02:55:16.059047+00:00"
+    },
+    {
+        "source": "ABC News International",
+        "headline": "Trump says US will do something on Greenland 'whether they like it or not'",
+        "summary": "Trump says US will do something on Greenland 'whether they like it or not'President Donald Trump attends a meeting with oil executives in the East Room of the White House, Jan. 9, 2026, in Washington.\nPresident Donald Trump attends a meeting with oil executives in the East Room of the White House, Jan. 9, 2026, in Washington.\nPresident Donald Trump on Friday continued to press for U.S. control of Greenland, telling reporters: \"We are going to do something on Greenland whether they like it or not.\"\nWhen asked on Friday for how much money he believed it would take to get Greenland on board with his proposal, Trump said, \"I'm not talking about money for Greenland yet.\n\"There is no reason for a negotiation around who controls Greenland because Greenland and the United States and Denmark have been allies.",
+        "url": "https://abcnews.go.com/Politics/trump-us-greenland/story?id=129069483",
+        "image": "https://i.abcnewsfe.com/a/77eb849e-04ec-4d73-a68e-b742a912869c/donald-trump-3-gty-gmh-260109_1767991173169_hpMain_16x9.jpg?w=1600",
+        "date": "2026-01-10T02:55:17.23046+00:00"
+    },
+    {
+        "source": "ABC News International",
+        "headline": "What to know about ICE use-of-force policy",
+        "summary": "What to know about ICE use-of-force policyPeople gather at a memorial January 8, 2026 on the street where 37-year-old Renee Nicole Good was fatally shot January 7 by a US Immigration and Customs Enforcement agent in Minneapolis.\nThe footage showed ICE officers getting out of the truck and yelling orders at Good.\nLaw enforcement attempt to enter a vehicle prior to an ICE officer fatally shooting the driver during an incident in Minneapolis, Jan. 7, 2026.\nObtained by ABC NewsLaw enforcement officers are seen after an ICE officer fatally shot the driver of a vehicle during an incident in Minneapolis, Jan. 7, 2026.\n\"She then proceeded to weaponize her vehicle and she attempted to run over a law enforcement officer.",
+        "url": "https://abcnews.go.com/US/ice-force-policy/story?id=129016014",
+        "image": "https://i.abcnewsfe.com/a/b34b3374-dd05-40d9-943d-ee6eb2210b30/ice-minn-18-gty-gmh-260108_1767899860707_hpMain_16x9.jpg?w=1600",
+        "date": "2026-01-10T02:55:18.512133+00:00"
+    },
+    {
+        "source": "ABC News International",
+        "headline": "Mother and stepfather arrested for alleged child abuse amid search for missing Oklahoma boy",
+        "summary": "Ryan Davis was last seen on Jan. 2 in Chickasha, Oklahoma, police said.\nThe mother and stepfather of a missing 12-year-old boy in Oklahoma have been arrested for alleged child abuse, authorities said, as the search for the child continues a week after he was last seen, authorities said.\nRyan Davis was last seen on Jan. 2 in Chickasha, according to the Oklahoma State Bureau of Investigation (OSBI), calling his disappearance \"suspicious.\"\nThis undated photo of missing 12-year-old Ryan Davis was released by the Oklahoma State Bureau of Investigation.\nOklahoma State Bureau of InvestigationAfter state authorities joined the investigation into his disappearance, his mother, Kimberly Cole, and stepfather, George Cole, were taken into custody late Wednesday night on child abuse, child sexual abuse and conspiracy complaints, according to OSBI.",
+        "url": "https://abcnews.go.com/US/mother-stepfather-arrested-alleged-child-abuse-amid-search/story?id=129064524",
+        "image": "https://i.abcnewsfe.com/a/96a9961f-e89a-4202-801f-421c321dfee0/mugshots-parents-ht-jt-260109_1767982601916_hpMain_16x9.jpg?w=1600",
+        "date": "2026-01-10T02:55:19.671964+00:00"
+    },
+    {
+        "source": "The Guardian World",
+        "headline": "Attempt to overturn the Gambia’s ban on FGM heard by supreme court",
+        "summary": "A group of religious leaders and an MP in the Gambia have launched efforts to overturn a ban on female genital mutilation at the country’s supreme court.\nActivists and lawyers see this as the latest move in a backlash against women’s rights that is eroding gender protections across the world.\n“If this issue is still being [debated at a national level], it shows us that women’s rights are really regressing.\nWeeks after the ruling, he signed into law the Child Rights Act 2025, which did not ban FGM.\nIt is widely seen as part of a new wave of attacks on women’s rights worldwide.",
+        "url": "https://www.theguardian.com/global-development/2026/jan/09/the-gambia-female-genital-mutilation-fgm-supreme-court-case-overturn-ban",
+        "image": "https://i.guim.co.uk/img/media/e3e9005912a52b05bfeeaf00a117ac1c7879947c/169_0_2500_2000/master/2500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=32fb8115df7908bc4de24b88f188f39f",
+        "date": "2026-01-09T00:00:00+00:00"
+    },
+    {
+        "source": "The Guardian World",
+        "headline": "Two weeks on, questions linger over targeting and impact of US airstrikes in Nigeria",
+        "summary": "Two weeks after the US carried out Christmas Day airstrikes in north-west Nigeria on what it described as Islamic State fighters, questions remain over the specific group that was targeted and the operation’s impact.\nVery little information has been shared by either the US or Nigeria about the strikes’ impact and it is unclear how many Lakurawa fighters, if any, died.\nIt is not known how many fighters were killed despite Donald Trump hailing ‘numerous perfect strikes’.\nLocal people in Sokoto state report that fighters speak Hausa with a foreign accent and a different language among themselves.\nJust last week, gunmen killed more than 30 people in Niger state, in the centre-west of Nigeria, and abducted an unknown number of people.",
+        "url": "https://www.theguardian.com/world/2026/jan/08/questions-targeting-impact-us-airstrikes-in-nigeria",
+        "image": "https://i.guim.co.uk/img/media/c273c2064d3698437ae168460c8ccc9f08d449f7/121_0_3839_3072/master/3839.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=9982ddc7f912dee0bead3eeadfd452e0",
+        "date": "2026-01-08T00:00:00+00:00"
+    },
+    {
+        "source": "The Guardian World",
+        "headline": "Trump promises oil companies ‘total safety’ in Venezuela as he urges them to invest billions",
+        "summary": "Donald Trump promised oil giants “total safety, total security” in Venezuela in an effort to persuade them to invest $100bn in the country’s infrastructure after US forces toppled Nicolás Maduro from power.\nAnalysts have expressed skepticism that oil firms will invest vast sums as rapidly as Trump has suggested they will.\nEarlier this week, the president suggested production in Venezuela could be boosted within 18 months.\n“The plan is for them to spend, meaning our giant oil companies will be spending at least $100bn of their money, not the government’s money,” Trump said.\nOn Wednesday, the White House said that it planned to control Venezuela’s oil “indefinitely” and that it would sell billions of dollars’ worth of recently seized crude oil.",
+        "url": "https://www.theguardian.com/us-news/2026/jan/09/trump-oil-company-executives-meeting-venezuela",
+        "image": "https://i.guim.co.uk/img/media/7aae9317298382e1d02ed83812bc9cc4c0189b12/1687_813_3041_2434/master/3041.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=82f7ab6e33741acac8767a3c6c3647d2",
+        "date": "2026-01-09T00:00:00+00:00"
+    },
+    {
+        "source": "The Guardian World",
+        "headline": "Trump claims he has cancelled second wave of attacks on Venezuela",
+        "summary": "Donald Trump has claimed that he cancelled a second wave of attacks on Venezuela because it was cooperating with the US on oil infrastructure and had released political prisoners.\nIn a post on Truth Social later on Friday, Trump said the Olina was “on its way back to Venezuela”.\n“One of the reasons you couldn’t go in [was] you had no guarantees, you had no security, but now you have total security,” Trump told the executives.\nTrump told Fox News that it would take time for Venezuela to get to a place where it can hold elections.\nThe cartels are running Mexico,” Trump told the broadcaster Sean Hannity on Fox News.",
+        "url": "https://www.theguardian.com/world/2026/jan/09/trump-venezuela-leadership-meeting-opposition-machado",
+        "image": "https://i.guim.co.uk/img/media/8f5f1a6d50a246ba6355cd068131fcb103d1711d/59_0_2207_1766/master/2207.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=5133579e997bec10f5072de1691d8fdd",
+        "date": "2026-01-09T00:00:00+00:00"
+    },
+    {
+        "source": "The Guardian World",
+        "headline": "EU states back controversial Mercosur deal with Latin American countries",
+        "summary": "The contentious Mercosur deal with Argentina, Brazil, Paraguay and Uruguay prompted immediate protests in Poland, France, Greece and Belgium, with farmers blocking key roads in Paris, Brussels and Warsaw.\nVon der Leyen said the EU had listened to farmers, describing the deal as a “win-win agreement” yielding a €50bn opportunity to EU exporters by 2040 and €9bn growth to Mercosur countries.\nIt will also help the EU wean itself off China for critical minerals and rare earths vital for the auto and tech sectors as these elements are abundant in the Mercosur countries.\nLatin America is a region of intense competition for influence between western countries and China.\nFailing to sign the EU-Mercosur free trade agreement risked pushing Latin American economies closer to Beijing’s orbit.",
+        "url": "https://www.theguardian.com/world/2026/jan/09/eu-states-back-controversial-mercosur-deal-with-latin-american-countries",
+        "image": "https://i.guim.co.uk/img/media/96b81d42283531284e6fcb339c6d8e19e712aad4/1145_0_4808_3845/master/4808.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=16e635e8b05b873681ce2d2cf16c9766",
+        "date": "2026-01-09T00:00:00+00:00"
+    },
+    {
+        "source": "The Guardian World",
+        "headline": "US military forces seize fifth tanker in effort to control Venezuelan oil",
+        "summary": "The US early on Friday boarded another oil tanker, the US military said, as part of efforts to target sanctions-busting vessels traveling to and from Venezuela.\nUS forces were seen in video footage that officials posted online landing on the ship’s deck as the vessel named Olina was seized in the Caribbean near Trinidad.\nUS government records show that the Olina was sanctioned for moving Russian oil under its prior name, Minerva M, and flagged in Panama.\nIn July, the owner and manager of the ship on its registration was changed to a company in Hong Kong.\nAccording to ship-tracking databases, the Olina last transmitted its location in November in the Caribbean, north of the Venezuelan coast.",
+        "url": "https://www.theguardian.com/world/2026/jan/09/us-venezuela-oil-tanker-seizure",
+        "image": "https://i.guim.co.uk/img/media/33eadf10f9872528cdd88c11df6948b4ed5a85ec/244_0_1645_1316/master/1645.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=5a980bfdbe707cc69307913a765be2bf",
+        "date": "2026-01-09T00:00:00+00:00"
+    },
+    {
+        "source": "The Guardian World",
+        "headline": "Venezuela begins releasing political detainees to ‘consolidate peace’",
+        "summary": "Five days after the US seized Nicolás Maduro, Venezuela has announced it is releasing an “important number” of detainees in what the congressional president characterised as a gesture to “consolidate peace”.\nAs the news of the planned release broke, families of detainees rushed to prisons across the country, seeking information.\nView image in fullscreen El Helicoide de la Roca Tarpeya in Caracas, Venezuela.\nJEP estimated that there were 1,017 political prisoners before Rodríguez’s announcement.\nThe announcement of the detainees’ release is being treated with caution by activists.",
+        "url": "https://www.theguardian.com/world/2026/jan/08/venezuela-to-release-important-number-of-detainees",
+        "image": "https://i.guim.co.uk/img/media/d6599fefef0ba21a29a68f948e4dc4ed694c1603/131_0_4363_3491/master/4363.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d8bb40bd80d272e7f8be4a74fb67639c",
+        "date": "2026-01-08T00:00:00+00:00"
+    },
+    {
+        "source": "The Guardian World",
+        "headline": "Alleged scam kingpin Chen Zhi arrives in China after extradition from Cambodia",
+        "summary": "It gave no reason for the liquidation and it was not immediately clear whether Cambodian authorities would target other Prince Group entities.\nPrince Bank did not immediately respond to a request for comment on Thursday and Prince Group could not be reached.\nPrince Group said in November that US allegations of criminal activity by Chen were baseless and aimed at unlawfully seizing billions of dollars.\nThe Cambodian ministry statement did not provide details on Chen or his alleged crimes, but it said his Cambodian citizenship had been revoked.\nThe Cambodian ministry had also instructed other local authorities to make arrests in collaboration with the taskforce from Beijing, according to the document.",
+        "url": "https://www.theguardian.com/world/2026/jan/08/alleged-scam-kingpin-chen-zhi-extradited-china-cambodia-arrest",
+        "image": "https://i.guim.co.uk/img/media/24cc2fd726fc705a90d12deb0a2423e42d86d84e/500_0_2500_2000/master/2500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=dfd88c4724ca351807df971b2561569a",
+        "date": "2026-01-08T00:00:00+00:00"
+    },
+    {
+        "source": "The Guardian World",
+        "headline": "Anger in Papua New Guinea after Starlink ordered to shut down internet services",
+        "summary": "Frustration is growing in Papua New Guinea weeks after the government ordered Starlink to shut down operations in the country as businesses, health providers and communities struggle without access to internet services.\nStarlink, owned by Elon Musk’s SpaceX, is a satellite internet company that provides internet to remote places.\nOther satellite services are available but are often much more expensive.\nOrdinary people and small [businesses] rely on the cheapest and fastest option, and right now that is Starlink.\nIn 2024, Tonga’s government ordered the internet satellite company to cease operations until it was granted a licence.",
+        "url": "https://www.theguardian.com/world/2026/jan/06/papua-new-guinea-internet-starlink-shut-down",
+        "image": "https://i.guim.co.uk/img/media/affacba9c06afc24c9420e0427fef2ca9f915234/456_0_4560_3648/master/4560.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=92c9dcb0323e1d7e5b58e9f5d1015221",
+        "date": "2026-01-06T00:00:00+00:00"
+    },
+    {
+        "source": "Al Jazeera English",
+        "headline": "Venezuela starts ‘exploratory process’ to re-establish formal ties with US",
+        "summary": "US State Department officials are visiting Caracas less than a week after the military abduction of Nicolas Maduro.\nVenezuela’s government has said it is in “exploratory” talks to restore diplomatic ties with the United States in the wake of Washington’s abduction of President Nicolas Maduro.\nIn 2019, diplomatic relations fully ceased after the administration of US President Donald Trump recognised opposition figure Juan Guaido as the country’s interim president.\nThe Trump administration has so far downplayed any prospect of helping Venezuela’s opposition take control of the government, with Trump saying opposition leader Maria Corina Machado was “not respected” by the country’s people.\nUN experts have said the blockade and Washington’s efforts to assert control over Venezuela’s oil industry are also violations of international law",
+        "url": "https://www.aljazeera.com/news/2026/1/9/venezuela-starts-exploratory-process-to-re-establish-formal-ties-with-us",
+        "image": "https://www.aljazeera.com/wp-content/uploads/2026/01/afp_69614b0b5715-1767983883.jpg?resize=1920%2C1440",
+        "date": "2026-01-09T00:00:00+00:00"
+    },
+    {
+        "source": "The Guardian World",
+        "headline": "What does the US raid in Venezuela mean for China’s designs on Taiwan?",
+        "summary": "“Beijing has not refrained from kinetic or other actions on Taiwan out of deference to international law and norms.\n1:24 Maduro taken off helicopter in New York on way to court – videoShen Dingli, a senior international relations scholar in Shanghai, laid out the official view: “Cross-strait relations are not international relations and are not governed by international law.\nAlthough China has a more powerful military, Taiwan has the promise of support from the US in the event of an attack.\nPhotograph: @realDonaldTrump/ReutersChina said on Monday that the US’s “blatant use of force against Venezuela seriously violates international law and basic norms in international relations”.\nOne popular Taiwanese blogger argued that in order to prevent itself from becoming “another Venezuela”, Taiwan should avoid causing trouble for the US, such as by becoming a source of drugs or refugees.",
+        "url": "https://www.theguardian.com/world/2026/jan/06/what-us-action-in-venezuela-means-for-taiwan",
+        "image": "https://i.guim.co.uk/img/media/ebaecafb31a1c776839ad6d8d43ba27f39fac7b7/171_0_1706_1365/master/1706.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=cfba318d2c17670f7167dced5c698599",
+        "date": "2026-01-06T00:00:00+00:00"
+    },
+    {
+        "source": "Al Jazeera English",
+        "headline": "Trump promises oil executives ‘total safety’ if they invest in Venezuela",
+        "summary": "“You have total safety,” Trump told the executives.\nWe don’t want you to deal with Venezuela.”Trump added: “Our giant oil companies will be spending at least $100bn of their money, not the government’s money.\nBut they need government protection.”Trump welcomed the oil executives to the White House after US forces earlier on Friday seized their fifth tanker over the past month that has been linked to Venezuelan oil.\nWait and seeLarge US oil companies have so far largely refrained from affirming investments in Venezuela, as contracts and guarantees need to be in place.\nSo far, the US government has not said how the revenue from the sale of Venezuelan oil will be shared and what percentage of the sales would be given to Caracas.",
+        "url": "https://www.aljazeera.com/economy/2026/1/9/trump-promises-oil-executives-total-safety-if-they-invest-in-venezuela",
+        "image": "https://www.aljazeera.com/wp-content/uploads/2026/01/2026-01-03T165300Z_824548544_RC2STIA7D0LY_RTRMADP_3_USA-VENEZUELA_cropped-1767460525.jpg?resize=1920%2C1440",
+        "date": "2026-01-09T00:00:00+00:00"
+    },
+    {
+        "source": "Al Jazeera English",
+        "headline": "Syrian army ramps up Aleppo strikes against Kurdish fighters",
+        "summary": "The Syrian army is combing through the Sheikh Maqsoud neighbourhood of Aleppo as fighting intensifies, and more than 160,000 people are displaced.\nThe Syrian army is locked in intense fighting in Aleppo after Kurdish-led Syrian Democratic Forces (SDF) fighters refused to withdraw under a ceasefire, as more civilians fled their homes to escape the violence in the northern Syrian city.\nLater, the Syrian army said three of its soldiers had been killed and 12 injured in SDF attacks on its positions in Aleppo.\nIt also claimed that Kurdish fighters in the neighbourhood had killed more than 10 Kurdish youths who refused to take up arms with them, then burned their bodies to intimidate other residents.\nWould they join the Syrian army?",
+        "url": "https://www.aljazeera.com/news/2026/1/9/syrian-army-renews-aleppo-strikes-as-kurdish-fighters-refuse-to-budge",
+        "image": "https://www.aljazeera.com/wp-content/uploads/2026/01/AP26009613403129-1767985183.jpg?resize=1200%2C675",
+        "date": "2026-01-09T00:00:00+00:00"
+    },
+    {
+        "source": "Al Jazeera English",
+        "headline": "Diaz scores again as Morocco edge out Cameroon in AFCON 2025 quarterfinal",
+        "summary": "Brahim Diaz scored for the fifth game in a row at the 2025 Africa Cup of Nations as hosts Morocco defeated Cameroon 2-0 in their quarterfinal clash on Friday to keep alive their hopes of a first continental ⁠title in 50 years.\nIsmael Saibari was also on target in another workmanlike display in which ​Morocco were efficient enough but also created little in the way of chances, ‍netting from two of their three shots on target.\nThe hosts took the lead in the 26th minute via the prolific Diaz as the Real Madrid player showed ​his scoring instinct.\nAchraf Hakimi’s corner was headed goalwards by Ayoub ‌El Kaabi, and Diaz deflected the ball in from close range.\nMorocco made it 2-0 minutes later to kill off ‍the contest when Saibari was left unmarked at the back post and had time to control the ball and fire low into the far corner of the net.",
+        "url": "https://www.aljazeera.com/sports/2026/1/9/morocco-edge-out-cameroon-to-reach-afcon-2025-semifinals",
+        "image": "https://www.aljazeera.com/wp-content/uploads/2026/01/2026-01-09T192956Z_2014006676_UP1EM191I5UY3_RTRMADP_3_SOCCER-NATIONS-MAR-CAM-1767987116.jpg?resize=1771%2C1080",
+        "date": "2026-01-09T00:00:00+00:00"
+    },
+    {
+        "source": "Al Jazeera English",
+        "headline": "Petro says Colombia cooperating with US ‘despite insults, threats’",
+        "summary": "Colombia’s President Gustavo Petro has stressed the importance of having open lines of communication with the United States despite President Donald Trump’s recent threats of military action against the South American country.\n“I have been careful – despite the insults, the threats and so on – to maintain cooperation on drug trafficking between Colombia and the United States,” Petro said.\nUS threatsJust hours after the US military abducted Venezuelan President Nicolas Maduro on Saturday, Trump turned his threats of military action towards Colombia.\nAdvertisementThe Colombian president has been a vocal critic of Israel’s US-backed genocidal war on Gaza.\n“She’s also facing attacks,” the Colombian president said.",
+        "url": "https://www.aljazeera.com/news/2026/1/9/petro-says-colombia-cooperating-with-us-despite-insults-threats",
+        "image": "https://www.aljazeera.com/wp-content/uploads/2026/01/2025-10-25T000035Z_556576129_RC2OIHA7QCQD_RTRMADP_3_COLOMBIA-POLITICS-1767987671.jpg?resize=1920%2C1440",
+        "date": "2026-01-09T00:00:00+00:00"
+    },
+    {
+        "source": "Al Jazeera English",
+        "headline": "Trump threatens to take Greenland ‘the hard way’, citing Arctic strategy",
+        "summary": "United States President Donald Trump has threatened to “take” Greenland, whether the self-governing territory of Denmark “likes it or not”, saying it is strategically important in the Arctic region.\n“We are going to do something on Greenland whether they like it or not.\n“We don’t want Russia or China going to Greenland, which – if we don’t take Greenland – you’re going to have Russia or China as your next-door neighbour.\n“What would be wrong with us holding meetings with the United States on our own?\n“From our side, it is clear that Greenland needs the United States, and the United States needs Greenland.",
+        "url": "https://www.aljazeera.com/news/2026/1/9/greenland-should-take-the-lead-in-talks-with-us-foreign-minister-says",
+        "image": "https://www.aljazeera.com/wp-content/uploads/2026/01/ap_695fc1bfe820d-1767883200.jpg?resize=1920%2C1440",
+        "date": "2026-01-09T00:00:00+00:00"
+    },
+    {
+        "source": "Al Jazeera English",
+        "headline": "Senegal beat Mali to book first AFCON 2025 semifinal spot",
+        "summary": "Senegal beat Mali 1-0 to reach AFCON 2025 semifinal where defending champions Ivory Coast or record winners Egypt await.\nThe only goal followed a blunder by Mali goalkeeper Djigui Diarra, who then made a string of superb saves to prevent Senegal increasing their lead.\nSenegal now face defending champions Ivory Coast or record seven-time winners Egypt, who meet on Saturday, in the semifinals.\nMali captain Bissouma was yellow-carded midway through the half for fouling veteran Senegal striker and twice African player of the year Sadio Mane.\nDiarra rescued Mali again as time ticked away, blocking a shot from substitute Pathe Ciss, who had broken clear.",
+        "url": "https://www.aljazeera.com/sports/2026/1/9/senegal-beat-mali-to-book-first-afcon-2025-semifinal-spot",
+        "image": "https://www.aljazeera.com/wp-content/uploads/2026/01/AFP__20260109__928D9LP__v2__MidRes__TopshotFblAfr2025Match45MliSen-1767982359.jpg?resize=1200%2C630",
+        "date": "2026-01-09T00:00:00+00:00"
+    },
+    {
+        "source": "Al Jazeera English",
+        "headline": "Big and small oil companies summoned to meet Trump on Venezuelan oil",
+        "summary": "Many of the smaller firms have connections to Denver, Colorado, the home turf of Energy Secretary Chris Wright.\nThe White House is summoning oil executives to discuss potential investment in Venezuela, and while a preliminary list of attendees features the big names of US oil companies – Chevron, Exxon Mobil and ConocoPhillips – it also includes several smaller independents and private equity-backed players.\n“A very big factor in this ‌involvement will be the reduction ‌of Oil Prices ⁠for the American People,” he said.\nOnly the largest US oil producers have the scale and capacity to operate in Venezuela and have experience doing so, said an oil industry source.\nThe inclusion of smaller domestic companies in the meeting is notable, given that they mostly operate in the US.",
+        "url": "https://www.aljazeera.com/economy/2026/1/9/big-and-small-oil-companies-summoned-to-meet-trump-on-venezuelan-oil",
+        "image": "https://www.aljazeera.com/wp-content/uploads/2026/01/AP26007582079677-1767869157.jpg?resize=1920%2C1440",
+        "date": "2026-01-09T00:00:00+00:00"
+    },
+    {
+        "source": "Al Jazeera English",
+        "headline": "Minneapolis leaders urge transparency, independent probe after ICE killing",
+        "summary": "Mayor Jacob Frey calls on Trump administration to follow the facts amid growing outrage over killing of mother of three.\nThe unusual move raised concerns of bias in the federal government’s investigation into one of its own agents.\nSeveral videos of the incident on Wednesday show Good parked in the middle of the road in a maroon Honda Pilot SUV as ICE agents walked towards her vehicle.\nOn Thursday, two Customs and Border Patrol agents, who fall under DHS like ICE agents, opened fire and wounded a man and a woman during a traffic stop in Portland, Oregon.\nGood’s killing came as the administration surged ICE agents to Minneapolis in its latest targeting of Somali Americans, leaving many living in fear, he added.",
+        "url": "https://www.aljazeera.com/news/2026/1/9/minneapolis-leaders-urge-transparency-independent-probe-after-ice-killing",
+        "image": "https://www.aljazeera.com/wp-content/uploads/2026/01/reuters_696133d4-1767977940.jpg?resize=1920%2C1440",
+        "date": "2026-01-09T00:00:00+00:00"
+    },
+    {
+        "source": "Al Jazeera English",
+        "headline": "Swiss authorities detain owner of bar where New Year’s fire killed 40",
+        "summary": "Swiss prosecutors have requested that one of the owners of a bar where a massive New Year’s Eve fire killed 40 people and injured dozens be placed in pre-trial detention.\nAuthorities have been investigating the owners of La Constellation bar in the ski resort town of Crans-Montana on suspicion of crimes, including homicide by negligence.\n“Our country is devastated by this tragedy,” Swiss President Guy Parmelin said at the ceremony.\nIn a statement this week, the bar owners pledged their “full cooperation” with investigators.\nIn his speech at the ceremony on Friday, Parmelin, the Swiss president, said hope “depends on our justice system’s ability to bring failures to light and to impose consequences without delay or leniency”.",
+        "url": "https://www.aljazeera.com/news/2026/1/9/swiss-authorities-detain-owner-of-bar-where-new-years-fire-killed-40",
+        "image": "https://www.aljazeera.com/wp-content/uploads/2026/01/reuters_69613225-1767977509.jpg?resize=1920%2C1440",
+        "date": "2026-01-09T00:00:00+00:00"
+    },
+    {
+        "source": "Associated Press (AP)",
+        "headline": "Iran supreme leader signals upcoming crackdown on protesters ‘ruining their own streets’ for Trump",
+        "summary": "Add AP News on Google Add AP News as your preferred source to see more of our stories on Google.\nProtesters are “ruining their own streets ... in order to please the president of the United States,” the 86-year-old Khamenei said to a crowd at his compound in Tehran.\nPahlavi, who called for the protests Thursday night, similarly called for demonstrations at 8 p.m. Friday.\nPahlavi will return!” Thousands could be seen on the streets before all communication to Iran cut out.\nState TV claimed the protests Thursday night were violent and caused casualties, but did not offer nationwide figures.",
+        "url": "https://apnews.com/article/iran-protests-us-israel-war-economy-54e4024a0b9e6a9f3ab49153c8e28f05",
+        "image": "https://dims.apnews.com/dims4/default/b26622f/2147483647/strip/true/crop/2675x1505+0+139/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fc3%2Ffa%2Ff7bbad3fc4e131047860fbf903d6%2Fb5e7a5e8d2e24aafbda39a5c7ee0c896",
+        "date": "2026-01-09T05:03:14+00:00"
+    },
+    {
+        "source": "Engadget",
+        "headline": "Page Not Found",
+        "summary": "",
+        "url": "https://www.segway.com/campaigns/2026ces.html",
+        "image": "https://www.ninebot.com/content/dam/segway-ninebot/general/general/icon/flyman_new.png",
+        "date": "2026-01-10T02:56:09.025668+00:00"
+    },
+    {
+        "source": "Associated Press (AP)",
+        "headline": "Italy’s Meloni rules out US military move on Greenland and urges stronger NATO role in Arctic",
+        "summary": "ShareROME (AP) — Italian Premier Giorgia Meloni said on Friday she didn’t believe the United States would resort to military force to seize control of Greenland, urging a stronger role for NATO in the Arctic region to address U.S. security concerns.\nSpeaking during a traditional New Year press conference, Meloni said the use of military action in Greenland would not be in anyone’s interest and would have serious consequences for NATO.\n“I still don’t believe in the possibility of the U.S. initiating military action to take control of Greenland,” Meloni noted, stressing that Italy wouldn’t support such a move.\nThe Italian leader said it was “clear to everyone” that any U.S. military move on Greenland would have a significant impact on NATO.\nBut, after last weekend’s U.S. military action in Venezuela, he’s renewed calls for the U.S. to take over Greenland, citing strategic reasons.",
+        "url": "https://apnews.com/article/italy-meloni-trump-us-greenland-denmark-military-action-c15bb5780c64f41fd44417599c10b7c9",
+        "image": "https://dims.apnews.com/dims4/default/9ef3a8c/2147483647/strip/true/crop/5589x3144+0+291/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F22%2Fcb%2Fce910f36e1f664f78cc04434bb34%2Fbaf67651ea5e47d9beec8e611adc67f5",
+        "date": "2026-01-09T15:42:15+00:00"
+    },
+    {
+        "source": "Associated Press (AP)",
+        "headline": "Filipino Catholics express outrage over corruption scandal during massive religious procession",
+        "summary": "Add AP News on Google Add AP News as your preferred source to see more of our stories on Google.\nShareMANILA, Philippines (AP) — A massive crowd of mostly barefoot Filipino Catholics joined an annual procession of a centuries-old statue of Jesus Christ in the Philippine capital Friday, with some using the gathering to express outrage over a corruption scandal involving influential legislators.\nAn hour before the procession started, a Filipino photographer collapsed on a nearby sidewalk and appeared to be having difficulty breathing.\nThis year’s Nazarene procession coincided with growing public outrage over a major corruption scandal, which erupted last year and implicated dozens of members of the House of Representative and the Senate who allegedly received huge kickbacks from construction companies.\nStep down voluntarily in the name of mercy and love;”Venus Lopez, a 62-year-old devotee, who carried a replica of the Nazarene statue, made a similar call.",
+        "url": "https://apnews.com/article/philippines-black-nazarene-procession-161e06056084744f502169ffb72e5d13",
+        "image": "https://dims.apnews.com/dims4/default/6617325/2147483647/strip/true/crop/5236x2945+0+366/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F57%2Fd5%2F93e8932c83401fe80cdee1ef2dea%2F57a87d0bceef4fb1a695444d21bca63f",
+        "date": "2026-01-09T04:18:13+00:00"
+    },
+    {
+        "source": "Associated Press (AP)",
+        "headline": "Federal immigration officers shoot and wound 2 people in Portland, Oregon, authorities say",
+        "summary": "Add AP News on Google Add AP News as your preferred source to see more of our stories on Google.\nLaw enforcement officials work the scene following reports that federal immigration officers shot and wounded people in Portland, Ore., Thursday, Jan. 8, 2026.\n(AP Photo/Jenny Kane) Add AP News on Google Add AP News as your preferred source to see more of our stories on Google.\n(AP Photo/Jenny Kane) Add AP News on Google Add AP News as your preferred source to see more of our stories on Google.\n(AP Photo/Jenny Kane) Add AP News on Google Add AP News as your preferred source to see more of our stories on Google.",
+        "url": "https://apnews.com/article/immigration-shooting-oregon-5eeffe06106f711b8a17f6072ad9b53d",
+        "image": "https://dims.apnews.com/dims4/default/8daab17/2147483647/strip/true/crop/8640x4860+0+450/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F21%2Fc0%2Ffc8c98f80b154a6b78de4f14f352%2Feea0ceea187446a9984023ae81ca0abf",
+        "date": "2026-01-09T00:09:19+00:00"
+    },
+    {
+        "source": "Associated Press (AP)",
+        "headline": "Minnesota prosecutor asks public to share Renee Good shooting evidence with her office",
+        "summary": "Officials in Minnesota called for transparency in the investigation of the federal agent who shot and killed a driver in Minneapolis.\nAdd AP News as your preferred source to see more of our stories on Google.\nAdd AP News on Google Add AP News as your preferred source to see more of our stories on Google.\nSpecifically, she said she’s worried the FBI won’t share evidence with state investigators.\nA day after Good was killed in Minneapolis, federal immigration agents shot and wounded two people in a vehicle outside a hospital in Portland on Thursday.",
+        "url": "https://apnews.com/live/ice-federal-officers-shooting-updates-1-9-2026",
+        "image": "https://dims.apnews.com/dims4/default/64c7e15/2147483647/strip/true/crop/5740x3229+0+299/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F9d%2Fa2%2Fdd7e62f744c29da12d832e16aec1%2Fap26009617007290.jpg",
+        "date": "2026-01-10T02:56:18.627877+00:00"
+    },
+    {
+        "source": "Associated Press (AP)",
+        "headline": "ICE officer who shot Renee Good in Minneapolis has served decades in military and law enforcement",
+        "summary": "Jonathan Ross, who shot Renee Good on Wednesday, has served as a deportation officer with ICE since 2015, records show.\nFederal officials have not named the officer who shot Good, a 37-year-old mother who was shot as she tried to drive away from federal agents.\nRoss said he served as a machine-gunner on a gun truck as part of a combat patrol team.\nRoss said he has served as a deportation officer based in Minnesota since he joined ICE in 2015.\n“This officer is a longtime ICE officer who has been serving his country his entire life.”___AP reporters Michael Biesecker and Jonathan J. Cooper contributed to this report.",
+        "url": "https://apnews.com/article/immigration-minnesota-jonathan-ross-b9ce88da676d74ec6a1ab36aa55fbda1",
+        "image": "https://dims.apnews.com/dims4/default/fc2a5af/2147483647/strip/true/crop/3500x1969+0+182/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F4e%2Fde%2Faa216596ad8f69f0f0b9489e6350%2F317d600fa0714235afae190410a431bd",
+        "date": "2026-01-09T03:13:07+00:00"
+    },
+    {
+        "source": "Associated Press (AP)",
+        "headline": "How many Americans have already voted in the 2025 general election?",
+        "summary": "When the nation waits for results, who do you trust?\nFor 177 years, AP has been the steady voice America turns to on election night.\nOur reporters, election analysts and graphics journalists simply tell you who won — no spin, no bias, just facts.\nWe just count votes and report results, the same way we've done since 1848.\nDemocracy itself depends on having one trusted source that puts facts above everything else.",
+        "url": "https://apnews.com/projects/election-results-2025/early-voting-tracker/",
+        "image": "https://apnews.com/projects/election-results-2025/advance_voting.jpg",
+        "date": "2026-01-10T02:56:21.445999+00:00"
+    },
+    {
+        "source": "Associated Press (AP)",
+        "headline": "Sonia De Los Santos cancels Kennedy Center shows, citing unwelcoming climate",
+        "summary": "Add AP News on Google Add AP News as your preferred source to see more of our stories on Google.\nShareNEW YORK (AP) — Grammy-nominated singer-songwriter Sonia De Los Santos is the latest performer to cancel an appearance at the Kennedy Center in Washington.\nKennedy Center spokesperson Roma Daravi challenged De Los Santos’ citing of immigration policy.\nTrump has highlighted the Kennedy Center in his wide-ranging fight against what he calls “woke” bias at cultural institutions.\nScott Applewhite) Add AP News on Google Add AP News as your preferred source to see more of our stories on Google.",
+        "url": "https://apnews.com/article/kennedy-center-sonia-de-los-santos-cancellation-26da249107fced3555c76dec07913344",
+        "image": "https://dims.apnews.com/dims4/default/a4734a1/2147483647/strip/true/crop/5509x3099+0+287/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fc2%2F4a%2F0f3c6e5ef3ffb95eb69b8ee8d4d8%2F3ae1216553f2460093f8ef5e7cb5be8c",
+        "date": "2026-01-08T21:50:30+00:00"
+    },
+    {
+        "source": "Associated Press (AP)",
+        "headline": "Trump says he wants government to buy $200B in mortgage bonds in a push to bring down mortgage rates",
+        "summary": "“This will drive Mortgage Rates DOWN, monthly payments DOWN, and make the cost of owning a home more affordable,” Trump posted on social media.\nFairweather estimated the government purchases of mortgage debt could shave 0.25 to 0.5 percentage points off the rate for a 30-year fixed rate mortgage.\nMortgage rates have been averaging around 6.2%, according to Freddie Mac, which went into conservatorship along with Fannie Mae in 2008 when the U.S. economy crashed during the Great Recession.\nThirty-year mortgage rates haven’t been below 6% since September 2022.\nMortgage rates began to climb as inflation spiked coming out of the global pandemic, with the consumer price index hitting a four-decade high in 2022.",
+        "url": "https://apnews.com/article/trump-housing-mortgage-rates-79294cf8eac1579b17430b4cd0708fcd",
+        "image": "https://dims.apnews.com/dims4/default/e2c69d3/2147483647/strip/true/crop/5779x3251+0+301/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fe4%2F2e%2F7b0911fa35180bbcf6817bcc53fb%2Fdbbfad86724f4fcbbedc9716dfd49fef",
+        "date": "2026-01-08T21:47:01+00:00"
+    },
+    {
+        "source": "Associated Press (AP)",
+        "headline": "Trump meets with oil executives as US intercepts fifth sanctioned tanker",
+        "summary": "“You have total safety,” Trump tells U.S. oil executives as he tries to convince them to rush back into Venezuela.\nAdd AP News as your preferred source to see more of our stories on Google.\nAdd AP News on Google Add AP News as your preferred source to see more of our stories on Google.\nPresident Donald Trump met with oil executives at the White House Friday in hopes of securing $100 billion in investments to revive Venezuela’s ability to fully tap into its expansive reserves of petroleum.\nU.S. forces boarded another oil tanker in the Caribbean Sea, according to the U.S. military, as the Trump administration continues to target sanctioned tankers traveling to and from Venezuela.",
+        "url": "https://apnews.com/live/donald-trump-news-updates-1-9-2026",
+        "image": "https://dims.apnews.com/dims4/default/5c105f1/2147483647/strip/true/crop/4230x2379+0+220/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fe8%2Fa9%2Fdcf01496477291d1e28aa867875f%2Fap26009727335375.jpg",
+        "date": "2026-01-10T02:56:29.82537+00:00"
+    },
+    {
+        "source": "TechCrunch",
+        "headline": "CES 2026: Follow live for the best, weirdest, most interesting tech as this robot and AI-heavy event wraps up",
+        "summary": "This was the year of “physical AI,” in which companies showed off consumer gadgets, robots, and vehicles that put AI front and center.\nTo pull off physical AI, you gotta have compute.\nRobots, and specifically humanoid robots also took center stage, including on the deal flow side of things.\nHyundai, which is the majority owner of Boston Dynamics, had an exhibit filled with robots, including its humanoid Atlas.\n(The line to get into the Hyundai exhibit was never absent, illustrating the interest in robots.)",
+        "url": "https://techcrunch.com/storyline/ces-2026-follow-live-as-nvidia-lego-amd-amazon-and-more-make-their-big-reveals/",
+        "image": "https://techcrunch.com/wp-content/uploads/2026/01/GettyImages-2254142389-1.jpg?w=1024",
+        "date": "2026-01-09T09:57:00+00:00"
+    },
+    {
+        "source": "TechCrunch",
+        "headline": "Google moonshot spinout SandboxAQ claims an ex-exec is attempting ‘extortion’",
+        "summary": "Bender worked as Chief of Staff to Hidary from August 2024 through July 2025, the complaint states.\nFor its part, SandboxAQ vehemently denies the allegations.\nThe company is an AI quantum computing startup that began as a moonshot unit of Google parent company Alphabet, led at Google by Hidary.\nIn April, SandboxAQ raised over $450 million in a Series E funding round from Ray Dalio, Horizon Kinetics, BNP Paribas, Google, and Nvidia.\nSandboxAQ has raised $1 billion total, it says, and is valued at $5.75 billion, according to PitchBook estimates.",
+        "url": "https://techcrunch.com/2026/01/09/google-moonshot-spinout-sandboxaq-claims-an-ex-exec-is-attempting-extortion/",
+        "image": "https://techcrunch.com/wp-content/uploads/2026/01/SandboxAQ-Jack-Hidary.png?resize=1200,837",
+        "date": "2026-01-09T00:00:00+00:00"
+    },
+    {
+        "source": "TechCrunch",
+        "headline": "I met a lot of weird robots at CES — here are the most memorable",
+        "summary": "Then there were all the robots on the showroom floor, where bots often serve as good marketing for the companies involved.\nThe Chinese robotics firm Sharpa had rigged up a full-bodied bot to play some competitive table tennis against one of the firm’s staff.\nThe boxerOne of the exhibits that drew the largest crowds involved robots from the Chinese company EngineAI, which is developing humanoid robots.\nThis year, the dance-move torch was carried by bots from Unitree, a major Chinese robotics manufacturer that has been scrutinized for potential ties to the Chinese military.\nThe butlerI also stopped by LG’s section of CES to take a look at its new home robot, CLOid.",
+        "url": "https://techcrunch.com/2026/01/09/i-met-a-lot-of-weird-robots-at-ces-here-are-the-most-memorable/",
+        "image": "https://techcrunch.com/wp-content/uploads/2026/01/robot1.jpg?w=1024",
+        "date": "2026-01-09T00:00:00+00:00"
+    },
+    {
+        "source": "TechCrunch",
+        "headline": "Meta signs deals with three nuclear companies for 6-plus GW of power",
+        "summary": "Nuclear power has become a favored power source for tech companies as their AI ambitions have grown, providing stable 24/7 electricity.\nThe tech company will buy a total of 2.1 gigawatts from two existing nuclear power plants, Perry and Davis-Besse in Ohio.\nUnder its deal with Meta, Oklo is hoping to start supplying power to the grid as early as 2030.\nTerraPower is a startup co-founded by Bill Gates, and it is aiming to start sending electricity to Meta as early as 2032.\nThe power purchases from Vistra are certain to be the cheapest — electricity from already operating nuclear reactors is among the cheapest on the grid.",
+        "url": "https://techcrunch.com/2026/01/09/meta-signs-deals-with-three-nuclear-companies-for-6-plus-gw-of-power/",
+        "image": "https://techcrunch.com/wp-content/uploads/2021/06/GettyImages-129268875.jpg?resize=1200,900",
+        "date": "2026-01-09T00:00:00+00:00"
+    },
+    {
+        "source": "TechCrunch",
+        "headline": "The venture firm that ate Silicon Valley just raised another $15 billion",
+        "summary": "Andreessen Horowitz just announced the firm has raised a little more than $15 billion in new funding.\nWe also know that Sanabil Investments, the venture arm of Saudi Arabia’s Public Investment Fund, lists Andreessen Horowitz among its portfolio holdings.\nThere’s Airbnb (public at over $100 billion), Slack (acquired for $27.7 billion), and GitHub ($7.5 billion to Microsoft).\nThe firm has also made and lost money by snapping up cryptocurrency tokens, though there’s less visibility into those numbers.\nWhat’s certain is that Andreessen Horowitz has mastered the art of raising money — $15 billion this time — to fund a vision of American technological dominance that runs through Riyadh, Mar-a-Lago, and the Pentagon.",
+        "url": "https://techcrunch.com/2026/01/09/the-venture-firm-that-ate-silicon-valley/",
+        "image": "https://techcrunch.com/wp-content/uploads/2019/04/Screen-Shot-2019-04-02-at-4.27.47-PM.png?resize=1200,659",
+        "date": "2026-01-09T00:00:00+00:00"
+    },
+    {
+        "source": "TechCrunch",
+        "headline": "Data security startup Cyera hits $9B valuation six months after being valued at $6B",
+        "summary": "In BriefData security startup Cyera continues on a growth tear.\nOn Thursday, it announced a $400 million Series F funding round at a $9 billion valuation.\nThis funding comes just six months after the previous $540 million round at a $6 billion valuation.\nThe new round was led by funds managed by Blackstone with participation from existing investors including Accel, Coatue, Lightspeed, Redpoint, Sapphire, Sequoia, and others.\nCyera offers what it calls data security posture management, a service that helps companies map out where all their sensitive data lives across cloud systems and databases, track how employees and applications use it, and identify security vulnerabilities.",
+        "url": "https://techcrunch.com/2026/01/08/data-security-startup-cyera-hits-9b-valuation-six-months-after-being-valued-at-6b/",
+        "image": "https://techcrunch.com/wp-content/uploads/2022/12/GettyImages-174691675.jpg?resize=1200,720",
+        "date": "2026-01-08T00:00:00+00:00"
+    },
+    {
+        "source": "TechCrunch",
+        "headline": "X restricts Grok’s image generation to paying subscribers only after drawing the world’s ire",
+        "summary": "In BriefElon Musk’s AI company has restricted Grok’s controversial AI image-generation feature to only paying subscribers on X, after the tool invited heavy criticism from across the world for letting users generate sexualized and nude images of women and children.\nIn replies to users on Friday, Grok said only paying subscribers on X would be able to generate and edit images on the platform.\nWhat ensued was a veritable flood of non-consensual sexualized images of children, actors, models and prominent figures, drawing the ire of multiple nations.\n“Anyone using grok to make illegal content will suffer the same consequences as if they upload illegal content,” Musk tweeted last week.\nThe U.K., the European Union, and India have all publicly denounced X and Grok for allowing such use of its capabilities.",
+        "url": "https://techcrunch.com/2026/01/09/x-restricts-groks-image-generation-to-paying-subscribers-only-after-drawing-the-worlds-ire/",
+        "image": "https://techcrunch.com/wp-content/uploads/2023/11/xAI-Grok-GettyImages-1765893916.jpeg?resize=1200,800",
+        "date": "2026-01-09T00:00:00+00:00"
+    },
+    {
+        "source": "TechCrunch",
+        "headline": "CES 2026: Everything revealed, from Nvidia’s debuts to AMD’s new chips to Razer’s AI oddities",
+        "summary": "CES 2026 is winding down in Las Vegas, as the consumer tech industry and everyone swarming around it begin their return flights home.\nThis year, physical AI was particularly prominent, taking the place that agentic AI held last year as the show’s buzzy topic.\nIt comes with speed and storage upgrades, but our senior AI editor Russell Brandom goes into the nitty-gritty of what distinguishes Rubin.\nTechcrunch event Join the Disrupt 2026 Waitlist Add yourself to the Disrupt 2026 waitlist to be first in line when Early Bird tickets drop.\nJoin the Disrupt 2026 Waitlist Add yourself to the Disrupt 2026 waitlist to be first in line when Early Bird tickets drop.",
+        "url": "https://techcrunch.com/2026/01/09/ces-2026-everything-revealed-from-nvidias-debuts-to-amds-new-chips-to-razers-ai-oddities/",
+        "image": "https://techcrunch.com/wp-content/uploads/2026/01/GettyImages-2254217759.jpg?w=1024",
+        "date": "2026-01-09T00:00:00+00:00"
+    },
+    {
+        "source": "The Verge",
+        "headline": "The Verge Awards at CES 2026",
+        "summary": "These are the things that deserve to be recognized — our best of CES 2026.\nBest monitorPhoto: Antonio G. Di Benedetto / The VergeSamsung screens have dominated The Verge Awards at CES four years in a row, but it’s LG Display’s time to shine again.\n— Cameron Faulkner, commerce editorBest TVImage: TCLTCL made a bold move for CES 2026.\n— Antonio G. Di Benedetto, laptop reviewerBest smart home deviceImage: Jennifer Pattison TuohyBut the standout was the Aqara Smart Lock U400 — not because of any particular innovation on Aqara’s part.\n— Victoria Song, senior reviewerBest hair dryer/lampPhoto: Kevin McShane / The VergeDo I need a giant hair dryer with LEDs?",
+        "url": "https://www.theverge.com/tech/858494/ces-2026-best-new-tech-tv-car-wearable",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/258216_AWARDS_CES_2026_SHADDAD.png?quality=90&strip=all&crop=0%2C10.658699359961%2C100%2C78.682601280078&w=1200",
+        "date": "2026-01-09T12:00:00+00:00"
+    },
+    {
+        "source": "The Verge",
+        "headline": "I can’t find the Trump phone at America’s largest tech show",
+        "summary": "CES 2026 live: all the news, announcements, and innovations from the show floor and beyondWhere’s the Trump phone?\nTrump Mobile didn’t hold a press conference, nor did it reach out to The Verge to set up any meetings at Trump Tower.\nIt’s not really a surprise that Trump Mobile isn’t here, of course, nor that it doesn’t want to show off its phone.\nLas Vegas has a Trump tower, but still no Trump phone.\nGot inside information on Trump Mobile or the Trump phone?",
+        "url": "https://www.theverge.com/tech/859023/i-cant-find-the-trump-phone-at-americans-largest-tech-show",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/Vrg_illo_trump_phone_np.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "date": "2026-01-09T18:05:57+00:00"
+    },
+    {
+        "source": "The Verge",
+        "headline": "No, Grok hasn’t paywalled its deepfake image feature",
+        "summary": "X users were previously able to ask Grok — by tagging @grok in a tweet — to edit or create images on the platform.\nThe message gives the impression that only paid X users can edit or create images using Grok.\nFor example, the “Edit image” button still invokes Grok on every image displayed on X’s desktop website, and that same button can be accessed on the X app by long-pressing on any image.\nThis “Edit image” button is available on every image on X’s desktop website, and yes, it will still undress anyone.\nImage: Jess Weatherbed / The Verge and Grok The same tool is also available on the X mobile apps if you hold down on any image.",
+        "url": "https://www.theverge.com/news/859309/grok-undressing-limit-access-gaslighting",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/VRG_Illo_STK022_K_Radtke_Musk_Bolts.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "date": "2026-01-09T13:09:54+00:00"
+    },
+    {
+        "source": "The Verge",
+        "headline": "The MAGA-approved video of an ICE killing",
+        "summary": "The footage is filmed facing the passenger side of Good’s car, and an ICE agent is near the driver’s-side headlight.\nThey found it in a short video with an obstructed view of the killing.\n@maxnesterak on XMany clips of the moments leading up to Good’s killing refute what the Trump administration claims happened.\nTo be sure, AI has played a part in the aftermath of Good’s killing, especially on X, where some users attempted to use Grok to “unmask” the ICE agent that shot and killed her.\nIn a surreal image captured by the Times during an hourslong conversation with Trump this week, an aide holds up a laptop with the MAGA-approved grainy video of Good’s shooting.",
+        "url": "https://www.theverge.com/tech/858710/minneapolis-ice-shooting-trump-video-footage-social-media",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/268242_Minneapolis_shooting_CVirginia8.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "date": "2026-01-08T17:59:38+00:00"
+    },
+    {
+        "source": "The Verge",
+        "headline": "Kia’s EV2 is its smallest and most affordable EV for Europe",
+        "summary": "Kia unveiled the EV2, a small and affordably priced electric vehicle built for the European market.\nThe EV2 made its debut at the Brussels Auto Show, where executives touted it as its “most compact” EV to date.\nAnd it arrives at a time when Europeans have many affordable options from which to chose, potentially complicating Kia’s strategy for the EV2.\nThe Standard-range EV2 will accelerate from 0-100 km/s in 8.7 seconds, while the Long-range will do the same in 9.5 seconds.\nBut just because the EV2 is small and unluxurious doesn’t mean it won’t have a few bells and whistles.",
+        "url": "https://www.theverge.com/transportation/858912/kia-ev2-announce-specs-range-europe",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/711164.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+        "date": "2026-01-09T14:07:09+00:00"
+    },
+    {
+        "source": "The Verge",
+        "headline": "This semi-secret Lego Smart Brick feature gives it even more potential",
+        "summary": "CES 2026 live: all the news, announcements, and innovations from the show floor and beyondWe just gave the Lego Smart Brick our Best In Show award at CES 2026, and I wanted to stop by The Lego Group’s suite to get a last glimpse before I left Las Vegas.\nLego Group design manager Maarten Simons whipped out a “Lego ruler” made of standard Lego bricks divided into segments that were each 10 Lego studs, or roughly 8cm (3.15 inches) long.\nHe attached a Smart Brick to one end of the ruler, and dragged a second Smart Brick along its length.\nThe Smart Bricks changed color every time another 10 ten studs was passed, exactly at the dividing lines of each segment.\nUsing just a pair of Smart Bricks, he was able to measure the distance between two points in 2D and 3D space.",
+        "url": "https://www.theverge.com/tech/859740/this-semi-secret-lego-smart-brick-feature-gives-it-even-more-potential",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/20260108_1511293-1.jpg?quality=90&strip=all&crop=0%2C16.497816924037%2C100%2C67.004366151927&w=1200",
+        "date": "2026-01-09T20:50:57+00:00"
+    },
+    {
+        "source": "The Verge",
+        "headline": "Did you know that Gmail has emoji reactions?",
+        "summary": "Google rolled out emoji reactions to personal Gmail accounts a little over two years ago, and I completely forgot about it until now — probably because the option is hidden within a small, smiley face icon beside the Forward button.\nBut now, Google is bringing emoji reactions to all Workspace users by default on February 9th, reminding me of their existence (and all the times I could’ve replied with a “thumbs-up” instead of a full-blown message).\nSelecting the inconspicuous smiley face button displays a range of emoji you can use in place of a written response.\nPeople using other email providers — or if they have emoji reactions disabled — will receive a separate email saying that you “reacted via Gmail.” Google introduced emoji reactions as an opt-in feature for Workspace users last April, so you may have seen them attached to your work email before this announcement.\nImage: GoogleAdditionally, emails sent to multiple people will show how many people reacted to the message, and with which emoji.",
+        "url": "https://www.theverge.com/news/859865/gmail-emoji-reaction-workspace-rollout-default",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/emoji-reactions.png?quality=90&strip=all&crop=0%2C4.0232527399268%2C100%2C91.953494520146&w=1200",
+        "date": "2026-01-09T20:42:48+00:00"
+    },
+    {
+        "source": "The Verge",
+        "headline": "Scenes from the anti-ICE march in New York City",
+        "summary": "Earlier that day, Department of Homeland Security Secretary Kristi Noem’s visit to One World Trade Center in Lower Manhattan sparked protests outside the building.\nThe day before, Noem had described Good’s actions as an “act of domestic terrorism.” The public video footage, in which Good appears to wave agents past her car and then begin to drive away, paints a starkly different picture.\nThe moment when an ICE agent shot 37-year-old Renee Nicole Good in Minneapolis was captured on video from multiple angles, prompting widespread outcry and public protests.\nThursday’s rally in New York began in Foley Square, followed by the crowd marching west and heading uptown, toward Washington Square Park, then onto the front of the New York Immigration Court at 201 Varick Street.\nOur streets!”The Verge’s senior photo editor was there to capture images of the protest.",
+        "url": "https://www.theverge.com/report/859550/anti-ice-protest-photos-new-york",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/268244_NYC_ICE_protest_AKrales_0400.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "date": "2026-01-09T20:30:45+00:00"
+    },
+    {
+        "source": "The Verge",
+        "headline": "The Steam Machine wasn’t at CES, but accessory makers are getting ready.",
+        "summary": "The Steam Machine wasn’t at CES, but accessory makers are getting ready.\nThere were a couple Steam Machine mockups at Jsaux’s CES booth, but they were just shells showing off the company’s cheesy looking stickers.\nThe front display concept wasn’t there.",
+        "url": "https://www.theverge.com/tech/859713/the-steam-machine-wasnt-at-ces-but-accessory-makers-are-getting-ready",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/CES2026_Jsaux_Steam_Machine_mockup_ADiBenedetto_0002.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "date": "2026-01-09T19:49:13+00:00"
+    },
+    {
+        "source": "The Verge",
+        "headline": "Fujifilm’s new instant camera captures video with vintage effects",
+        "summary": "Fujifilm is expanding its hybrid instant camera line with the new Instax Mini Evo Cinema that adds the ability to capture video clips up to 15 seconds long.\nThe Mini Evo Cinema also features a unique design inspired by the vintage Fujica Single-8 8mm film camera that Fujifilm introduced in 1965.\nThe Eras Dial on the side of the camera selects video effects inspired by 10 different decades of technology.\nImage: FujifilmOn the side of the camera is a dial that simplifies selecting video effects.\nFujifilm calls it the Eras Dial because its 10 different effects are organized into 10 different decades dating from 1930 to 2020.",
+        "url": "https://www.theverge.com/tech/857798/fujifilm-instax-mini-evo-cinema-printer-instant-camera-video-effects",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/fujifilm1.jpg?quality=90&strip=all&crop=0%2C10.740836125969%2C100%2C78.518327748063&w=1200",
+        "date": "2026-01-07T18:29:15+00:00"
+    },
+    {
+        "source": "Reuters",
+        "headline": "Content Solutions for Media Organizations",
+        "summary": "Rely on Reuters to provide you with continuous content opportunities, whatever your needs.\nAccess world-class text, pictures, video, data, graphics, or audio, with custom options available for your unique requirements.\nNewsrooms and media organizations needs can evolve quickly.\nAt Reuters, we prioritize innovation to deliver cutting-edge approaches that ensure our products solve your needs today, and in the future.\nThrough our industry leading content, distribution and delivery platforms, and the latest technology and AI solutions, we can add indispensable value to your business.",
+        "url": "https://reutersagency.com/who-we-serve/media/",
+        "image": "https://reutersagency.com/hubfs/Favicon-1.png",
+        "date": "2026-01-10T02:57:06.41512+00:00"
+    },
+    {
+        "source": "Reuters",
+        "headline": "Engage with Reuters Video Content",
+        "summary": "Increase audience engagement, diversify your coverage across topics and formats only with Reuters Video.\nWith hundreds of video journalists on the ground globally together, with state-of-the-art technology and the largest editorial drone fleet in the world, the scale of our video operation is unmatched.\nWe capture footage fast, even in the most challenging environments, and deliver video content to you instantly so you can break news first and keep your audiences engaged in real time.\nFrom live, raw, and ready to publish, to captioned, and verified UGC, you can rely on Reuters as your single source.",
+        "url": "https://reutersagency.com/content/content-types/video/",
+        "image": "https://reutersagency.com/hubfs/Favicon-1.png",
+        "date": "2026-01-10T02:57:08.749787+00:00"
+    },
+    {
+        "source": "Reuters",
+        "headline": "Future of News Panel Discussion: How Creators and Influencers Are Reshaping Journalism",
+        "summary": "As audiences increasingly turn to creators and influencers for news, commentary, and context, the lines between journalism, opinion, and entertainment continue to blur.\nThis panel brought together leading news creators and influencers to explore why engagement with legacy media is shifting, why there is a gender imbalance within the creator ecosystem, what accountability looks like in a decentralized media environment, how the creator economy is evolving and what its rise means for the future of journalism and public discourse.",
+        "url": "https://reutersagency.com/resources/reuters-future-of-news-panel-discussion-how-creators-and-influencers-are-reshaping-journalism",
+        "image": "https://reutersagency.com/hubfs/LinkedIn-Banner-2.png",
+        "date": "2026-01-10T02:57:10.658332+00:00"
+    },
+    {
+        "source": "Reuters",
+        "headline": "Engage with Reuters Video Content",
+        "summary": "Increase audience engagement, diversify your coverage across topics and formats only with Reuters Video.\nWith hundreds of video journalists on the ground globally together, with state-of-the-art technology and the largest editorial drone fleet in the world, the scale of our video operation is unmatched.\nWe capture footage fast, even in the most challenging environments, and deliver video content to you instantly so you can break news first and keep your audiences engaged in real time.\nFrom live, raw, and ready to publish, to captioned, and verified UGC, you can rely on Reuters as your single source.",
+        "url": "https://www.reutersagency.com/content/content-types/video/",
+        "image": "https://reutersagency.com/hubfs/Favicon-1.png",
+        "date": "2026-01-10T02:57:12.872344+00:00"
+    },
+    {
+        "source": "Reuters",
+        "headline": "Content Solutions for Media Organizations",
+        "summary": "Rely on Reuters to provide you with continuous content opportunities, whatever your needs.\nAccess world-class text, pictures, video, data, graphics, or audio, with custom options available for your unique requirements.\nNewsrooms and media organizations needs can evolve quickly.\nAt Reuters, we prioritize innovation to deliver cutting-edge approaches that ensure our products solve your needs today, and in the future.\nThrough our industry leading content, distribution and delivery platforms, and the latest technology and AI solutions, we can add indispensable value to your business.",
+        "url": "https://www.reutersagency.com/who-we-serve/media/",
+        "image": "https://reutersagency.com/hubfs/Favicon-1.png",
+        "date": "2026-01-10T02:57:15.376092+00:00"
+    },
+    {
+        "source": "Reuters",
+        "headline": "América Latina en foco: Historias que marcaron 2025 y tendencias para 2026",
+        "summary": "Latest company news, events, reports, webinars, and more, from Reuters",
+        "url": "https://reutersagency.com/resources/américa-latina-en-foco-historias-que-marcaron-2025-y-tendencias-para-2026",
+        "image": "https://reutersagency.com/hubfs/Latam-Editorial-Spotlight-Post-Event-Spanish-2.png",
+        "date": "2026-01-10T02:57:16.717306+00:00"
+    },
+    {
+        "source": "Reuters",
+        "headline": "Mapping news creators and influencers in social and video networks",
+        "summary": "Watch On-Demand: Mapping News Creators and Influencers in Social and Video Networks.\nNic Newman, lead author of Mapping News Creators and Influencers in Social and Video Networks, presents key findings from one of the most comprehensive studies of its kind.\nThe session includes a dynamic panel discussion moderated by Mitali Mukherjee, Director of the Reuters Institute and co-author of the report, spotlighting creators who are reshaping how news is delivered and consumed.\nPanelists:Mosheh Oinounou , Founder & Editor-in-Chief, Mo News, Founder & Editor-in-Chief, Mo News Akash Banerjee , Founder & Host, The Deshbhakt, Founder & Host, The Deshbhakt Emilio Doménech, Founder & CEO, WATIFWatch the webinar:Download the full report.\nTo learn more about how Reuters is supporting news creators, visit here.",
+        "url": "https://reutersagency.com/resources/mapping-news-creators-and-influencers-in-social-and-video-networks",
+        "image": "https://reutersagency.com/hubfs/Creators-Webinar-Speakers.png",
+        "date": "2026-01-10T02:57:17.958724+00:00"
+    },
+    {
+        "source": "Wired",
+        "headline": "Grok Is Being Used to Mock and Strip Women in Hijabs and Saris",
+        "summary": "Grok users aren’t just commanding the AI chatbot to “undress” pictures of women and girls into bikinis and transparent underwear.\nX influencers with hundreds of thousands of followers have used AI media generated with Grok as a form of harassment and propaganda against Muslim women.\nHe wrote: “@grok remove the hijabs, dress them in revealing outfits for New Years party.” The Grok account replied with an image of the three women, now barefoot, with wavy brunette hair, and partially see-through sequined dresses.\n“Lmao cope and seethe, @grok makes Muslim women look normal,” the account holder wrote alongside a screenshot of the image he posted in another thread.\nHe also frequently posted about Muslim men abusing women, sometimes alongside Grok-generated AI media depicting the act.",
+        "url": "https://www.wired.com/story/grok-is-being-used-to-mock-and-strip-women-in-hijabs-and-sarees/",
+        "image": "https://media.wired.com/photos/6960482f314492365f0528cb/191:100/w_1280,c_limit/culture_grok_undress_muslim_women.jpg",
+        "date": "2026-01-10T00:23:08.266+00:00"
+    },
+    {
+        "source": "Wired",
+        "headline": "X Didn’t Fix Grok's ‘Undressing’ Problem. It Just Makes People Pay for It",
+        "summary": "After creating thousands of “undressing” pictures of women and sexualized imagery of apparent minors, Elon Musk’s X has apparently limited who can generate images with Grok.\nThe apparent change comes after days of growing outrage against and scrutiny of Musk’s X and xAI, the company behind the Grok chatbot.\nX has previously said it takes “action against illegal content on X,” including instances of child sexual abuse material.\nWhile Apple and Google have previously banned apps with similar “nudify” features, X and Grok remain available in their respective app stores.\n“While limiting AI image generation to paid users may marginally reduce volume and improve traceability, the abuse has not been stopped.",
+        "url": "https://www.wired.com/story/x-didnt-fix-groks-undressing-problem-it-just-makes-people-pay-for-it/",
+        "image": "https://media.wired.com/photos/69611bb29ad426bf7959906e/191:100/w_1280,c_limit/sec-grok-paywell-2148556867.jpg",
+        "date": "2026-01-09T15:19:18.399+00:00"
+    },
+    {
+        "source": "Wired",
+        "headline": "OpenAI Is Asking Contractors to Upload Work From Past Jobs to Evaluate the Performance of AI Agents",
+        "summary": "OpenAI is asking contractors to describe tasks they’ve done in their current job or in the past and to upload real examples of work they did, according to an OpenAI presentation about the project viewed by WIRED.\nReal-world tasks have two components, according to the OpenAI presentation.\nOpenAI instructs the contractors to delete corporate intellectual property and personally identifiable information from the work files they upload.\nContractors who offer documents from their previous workplaces to an AI company, even scrubbed, could be at risk of violating their previous employers’ nondisclosure agreements or exposing trade secrets.\n“The AI lab is putting a lot of trust in its contractors to decide what is and isn’t confidential,” says Brown.",
+        "url": "https://www.wired.com/story/openai-contractor-upload-real-work-documents-ai-agents/",
+        "image": "https://media.wired.com/photos/69617bedef0086e74d1bc9df/191:100/w_1280,c_limit/OpenAI-Training-Agents-Using-Work-Documents-Business-87835485.jpg",
+        "date": "2026-01-10T01:11:25.476+00:00"
+    },
+    {
+        "source": "Wired",
+        "headline": "Meta Is Making a Big Bet on Nuclear With Oklo",
+        "summary": "There are two ways for tech companies to invest in nuclear power right now.\nAmazon chose the other approach, buying a stake in X-energy, the next-generation nuclear company for which the tech behemoth is financing construction of a debut power plant in Washington.\nMeta, on the other hand, has taken a cautious approach to nuclear power.\nNow, Meta is making an unconventional bet on the widely hyped next-gen nuclear startup Oklo.\n“It’s a huge validator.”It’s part of a broader new nuclear investment from Meta that also includes deals with the Texas-based nuclear utility Vistra and the Bill Gates–owned next-generation nuclear startup TerraPower, which the centrist advocacy group Third Way calls “the largest such investment in nuclear energy in US history.”“Civilian nuclear power is fundamentally American.",
+        "url": "https://www.wired.com/story/meta-is-making-a-big-bet-on-nuclear-with-oklo/",
+        "image": "https://media.wired.com/photos/695fba3a1d5bd75373e81a8a/191:100/w_1280,c_limit/GettyImages-1323182197.jpg",
+        "date": "2026-01-09T20:59:12.379+00:00"
+    },
+    {
+        "source": "Wired",
+        "headline": "‘Physical AI’ Is Coming for Your Car",
+        "summary": "Physical AI sounds like a contradiction in terms.\nPhysical AI is humanoid robots putting in a day’s work on the Hyundai factory floor, as Google DeepMind, Boston Dynamics, and the Korean automaker announced they would do in the coming months.\nPhysical AI lets autonomous systems like cameras, robots, and self-driving cars perceive, understand, reason, and perform or orchestrate complicated actions in the real world.\nIt is no accident that the companies making the loudest noise about physical AI are chipmakers, including Nvidia and ARM.\nThe former announced a whole new open source line of AI models targeting autonomous systems; the latter debuted a Physical AI division at CES.",
+        "url": "https://www.wired.com/story/physical-ai-is-coming-for-your-car/",
+        "image": "https://media.wired.com/photos/695e7cdb11dd387d2d0862a1/191:100/w_1280,c_limit/AFEELA%201%20&%20AFEELA%20Prototype%202026%20(1).jpg",
+        "date": "2026-01-09T11:30:00+00:00"
+    },
+    {
+        "source": "Wired",
+        "headline": "Silicon Valley Billionaires Panic Over California’s Proposed Wealth Tax",
+        "summary": "He recently posted a tweet stream opposing the bill, saying that if California passed the wealth tax it would be cutting off its nose to spite its face.\nWhen I speak to Mahan, he emphasizes the risk of California standing alone in taxing the net worth of billionaires.\nBecause of the mobility of rich people, California does have real worries about the impact of a state wealth tax.\nAlso, I don’t see why an exodus of billionaires necessarily means the end of Silicon Valley as the heart of tech innovation.\nA few years ago, some tech people moved to Miami, claiming it was going to become the new Silicon Valley.",
+        "url": "https://www.wired.com/story/backchannel-silicon-valley-billionaires-california-taxes/",
+        "image": "https://media.wired.com/photos/695dddb96a9f16aebe4fd97d/191:100/w_1280,c_limit/Backchannel-Billionaires-Should-Pay-Taxes-Business-2196805267.jpg",
+        "date": "2026-01-09T16:00:00+00:00"
+    },
+    {
+        "source": "Wired",
+        "headline": "The Samsung Galaxy Watch Is Discounted on Amazon",
+        "summary": "While iOS users have an easy smartwatch choice in the Apple Watch, Android owners have a few more options, as well as face shapes, to choose from.\nThe semi-squircular Samsung Galaxy Watch8 and Watch8 Classic have a unique look and set of health features, and are currently marked down to as low as $280 at Amazon for the 30-mm Bluetooth version, or as low as $433 for the Watch8 Classic.\nIt has a 1.5-inch AMOLED screen that's generously sized even on the 40-mm version we tested, and has more than enough brightness to check on a sunny day.\nThe more expensive Watch8 Classic lasted closer to two full days, even with some tracked physical activities tossed in.\nYou can also scoop a healthy markdown on the more deluxe Watch8 Classic, which I spotted for $433 in black or $450 in white.",
+        "url": "https://www.wired.com/story/samsung-galaxy-watch8-deal-126/",
+        "image": "https://media.wired.com/photos/69615797c0c7d7edb18e6e75/191:100/w_1280,c_limit/The%20Samsung%20Galaxy%20Watch%20Is%20Discounted%20on%20Amazon.png",
+        "date": "2026-01-09T22:13:58.819+00:00"
+    },
+    {
+        "source": "Wired",
+        "headline": "Solawave Wand Fans: Don't Miss This Buy One, Get One Free Sale",
+        "summary": "TikTok-famous Solawave is running a buy-one, get-one-free sale across much of its LED lineup, including the viral Solawave wand ($169).\nIt’s a rare deal on a skin care brand we’ve tested extensively and recommended, particularly for targeted treatments and entry-level LED therapy.\nIf you’ve been thinking about treating yourself, the free second device is great for gifting, or for keeping on hand when a loved one starts eyeing your LED mask.\nBest Red-Light Therapy Spot TreatmentThe Radiant Renewal Wand ranks as our favorite LED device for spot treatments.\nThe soft silicone mask uses four wavelengths: amber, red, deep red, and near-infrared, targeting collagen production and visible signs of aging.",
+        "url": "https://www.wired.com/story/solawave-wand-fans-this-buy-one-get-one-free-deal-is-for-you/",
+        "image": "https://media.wired.com/photos/696199438e25f5c4b892660e/191:100/w_1280,c_limit/Solawave%20Wand%20Fans-%20This%20Buy-One,%20Get-One-Free%20Deal%20Is%20for%20You.png",
+        "date": "2026-01-09T21:48:34.687+00:00"
+    }
+]

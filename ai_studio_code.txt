@@ -1,0 +1,316 @@
+[
+  {
+    "source": "BBC News",
+    "articles": [
+      {
+        "date": "2026-01-08T04:20:37+00:00",
+        "headline": "Analysis: Why Trump chose Maduro's VP over Nobel winner",
+        "summary": "This analysis delves into the strategic and controversial decision by the Trump administration to favor Delcy Rodríguez, Nicolas Maduro's Vice President, over a Nobel Prize laureate. The piece explores the geopolitical motivations behind engaging with a key figure in the Venezuelan government despite historical tensions. It examines what specific qualities or leverage Rodríguez might offer to US interests in the region. Finally, the article questions the potential long-term diplomatic fallout of bypassing a celebrated human rights figure for a political operative.",
+        "url": "https://www.bbc.com/news/articles/c77krp7m362o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "date": "2026-01-08T00:00:40+00:00",
+        "headline": "How tariff disruption will continue reshaping the global economy in 2026",
+        "summary": "The global economy faces continued volatility in 2026 as Trump's import levies fundamentally alter international trade patterns. This report analyzes how supply chains are being forced to reorganize to avoid steep costs, impacting everything from manufacturing to consumer prices. Economists warn that these persistent trade barriers are not just temporary hurdles but are creating a new, fragmented economic reality. The article also highlights specific industries that are struggling to adapt to this protectionist environment.",
+        "url": "https://www.bbc.com/news/articles/czejp3gep63o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "date": "2026-01-07T22:59:09+00:00",
+        "headline": "'We are not for sale': Greenlanders express fear and indignation as Trump eyes territory",
+        "summary": "Residents of Greenland have reacted with strong indignation and fear following renewed statements from the White House regarding the potential annexation of the territory. Local leaders and citizens emphasize that they have no interest in becoming part of the United States, asserting their unique cultural and political identity. The report captures the mood on the ground, where the geopolitical posturing is viewed as disrespectful to their sovereignty. Interviews highlight the anxiety over losing autonomy and the firm stance that their land and people are not commodities.",
+        "url": "https://www.bbc.com/news/articles/cvgx8w4pgk0o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "date": "2026-01-07T22:53:45+00:00",
+        "headline": "Video shows moment US immigration agent fatally shoots woman",
+        "summary": "Disturbing footage has been released showing the moment a US immigration officer shot and killed a woman in a car on a residential street in Minnesota. The video details the confrontation that led to the fatal use of force, raising immediate questions about protocol and escalation. Authorities are currently investigating the circumstances surrounding the shooting as public scrutiny mounts. The incident has sparked local outrage and renewed debates regarding the conduct of immigration enforcement agents in residential areas.",
+        "url": "https://www.bbc.com/news/videos/cx2ypz4zjvxo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "date": "2026-01-07T21:53:24+00:00",
+        "headline": "Tracking the oil tankers seized by the US",
+        "summary": "The United States has seized two oil tankers, the Marinera (formerly Bella 1) and the Sophia, in separate operations in the North Atlantic and near the Caribbean. This report tracks the movements and locations of these vessels, which were intercepted in international waters. The seizures mark a significant escalation in maritime enforcement, likely related to sanctions or illicit trade enforcement. Analysts are watching closely to see how the owners of the vessels and international trading partners respond to this aggressive enforcement action.",
+        "url": "https://www.bbc.com/news/videos/cx2gm7109rwo?at_medium=RSS&at_campaign=rss"
+      }
+    ]
+  },
+  {
+    "source": "Engadget",
+    "articles": [
+      {
+        "date": "2026-01-08T07:00:00+00:00",
+        "headline": "Anker unveils a new lineup of chargers, docks and accessories at CES 2026",
+        "summary": "Anker has introduced a significant new range of accessories at CES 2026, including a 45W Nano Charger with a built-in smart display and foldable prongs. The lineup also features a foldable 3-in-1 Prime Wireless Charging Station supporting Qi2, and a 10-in-1 Nano Power Strip designed for heavy desktop use. Additionally, a new 13-in-1 Nano Docking Station was revealed, capable of supporting three displays and high-speed data transfer. These products, focusing on improved interfaces and the latest iPhone ecosystems, are rolling out between now and late January.",
+        "url": "https://www.engadget.com/computing/accessories/anker-unveils-a-new-lineup-of-chargers-docks-and-accessories-at-ces-2026-160021025.html?src=rss"
+      },
+      {
+        "date": "2026-01-07T23:43:09+00:00",
+        "headline": "CES 2026: The Tone Outdoors T1 solved the biggest problem with leaf blowers",
+        "summary": "Whisper Aero has debuted the Tone Outdoors T1 at CES 2026, a leaf blower that utilizes aerospace technology to drastically reduce noise pollution. The device claims to be 80 percent quieter and 60 percent more powerful than leading gas models, operating at a comfortable 52 decibels. It features an extended battery life of up to 50 minutes, with a backpack battery option planned for 2027 to extend runtime further. The T1 is available for preorder at $599, targeting homeowners tired of the disruptive drone of traditional yard work tools.",
+        "url": "https://www.engadget.com/home/ces-2026-the-tone-outdoors-t1-solved-the-biggest-problem-with-leaf-blowers-234309500.html?src=rss"
+      },
+      {
+        "date": "2026-01-07T23:27:11+00:00",
+        "headline": "JPMorgan Chase is taking over the Apple Card",
+        "summary": "Apple has officially announced that JPMorgan Chase will replace Goldman Sachs as the issuer of the Apple Card, following reports of a deal that has been in the works for over a year. The transition is expected to take approximately two years, during which current customers can continue using their cards without interruption. Goldman Sachs is reportedly offloading about $20 billion in balances at a significant discount to exit the partnership. Mastercard will remain the payment network for the card throughout this change in banking partners.",
+        "url": "https://www.engadget.com/big-tech/jpmorgan-chase-is-taking-over-the-apple-card-232711979.html?src=rss"
+      },
+      {
+        "date": "2026-01-07T23:00:00+00:00",
+        "headline": "Bluetti's Charger 2 uses solar and engine power to charge your portable battery",
+        "summary": "Bluetti announced the Charger 2 at CES 2026, a device designed to simultaneously harvest power from a vehicle's engine and rooftop solar panels. This dual-input system can accept up to 800W from the alternator and 600W from solar, charging batteries up to 13 times faster than standard car chargers. The smart system automatically manages power sources based on availability and can even jump-start a vehicle if needed. It is available for an introductory price of $349, with an upgrade path offered for owners of the previous model.",
+        "url": "https://www.engadget.com/general/bluettis-charger-2-uses-solar-and-engine-power-to-charge-your-portable-battery-230000270.html?src=rss"
+      },
+      {
+        "date": "2026-01-07T22:15:00+00:00",
+        "headline": "Engadget Podcast: CES 2026 and the rocky year ahead for the PC industry",
+        "summary": "In this episode of the Engadget Podcast, hosts Devindra Hardawar and Dan Cooper discuss the major reveals from CES 2026 and predict a volatile year for the PC market. They analyze the impact of new chips from Intel, AMD, and NVIDIA against the backdrop of a fluctuating RAM market that could drive up prices. The discussion also covers Dell's revival of the XPS brand and other unique gadgets like smart nails and AI-powered earbuds. The hosts provide a candid look at the challenges and innovations shaping consumer tech this year.",
+        "url": "https://www.engadget.com/computing/engadget-podcast-ces-2026-and-the-rocky-year-ahead-for-the-pc-industry-221500019.html?src=rss"
+      },
+      {
+        "date": "2026-01-07T22:04:07+00:00",
+        "headline": "Samsung Display at CES 2026: Playful demos and mysterious prototypes",
+        "summary": "Samsung Display showcased a variety of futuristic OLED concepts at CES 2026, including foldable screens with nearly invisible creases and extremely durable panels tested by robots. Highlights included a prototype TV reaching a blinding 4,500 nits of brightness and a new 'TriFold' device that expands screen real estate significantly. They also demonstrated automotive applications with seamless dashboard displays and a 13.8-inch slide-out passenger screen. The exhibit focused on pushing the boundaries of form factors, from wearable OLED buttons to gaming-centric monitors.",
+        "url": "https://www.engadget.com/home/home-theater/samsung-display-ces-2026-playful-demos-and-mysterious-prototypes-220407696.html?src=rss"
+      },
+      {
+        "date": "2026-01-07T21:43:05+00:00",
+        "headline": "This haptic wristband pairs with Meta smart glasses to decode facial expressions",
+        "summary": "Startup Hapware introduced 'Aleye' at CES, a haptic wristband that works with Ray-Ban Meta smart glasses to assist blind and low-vision users. The device uses computer vision to detect facial expressions and gestures during conversations, translating them into specific vibration patterns on the user's wrist. While still in the pre-order phase, early testing suggests users can quickly learn to distinguish these tactile cues. The system aims to provide nonverbal context that audio-only assistants often miss, offering a new layer of accessibility.",
+        "url": "https://www.engadget.com/wearables/this-haptic-wristband-pairs-with-meta-smart-glasses-to-decode-facial-expressions-214305431.html?src=rss"
+      },
+      {
+        "date": "2026-01-07T21:01:50+00:00",
+        "headline": "ChatGPT is launching a new dedicated Health portal",
+        "summary": "OpenAI is rolling out 'ChatGPT Health,' a dedicated portal allowing users to connect medical records and wellness apps for personalized health insights. The company assures users that data within this space will have enhanced privacy safeguards and will not be used to train foundational models. Despite these assurances, the article highlights the risks of relying on AI for medical information, noting that chatbots are not qualified for diagnosis or treatment. Critics remain wary of sharing sensitive health data with a company previously criticized for its handling of safety and user wellbeing.",
+        "url": "https://www.engadget.com/ai/chatgpt-is-launching-a-new-dedicated-health-portal-210150083.html?src=rss"
+      },
+      {
+        "date": "2026-01-07T20:26:30+00:00",
+        "headline": "The best VPN deals: Up to 88 percent off ProtonVPN, Surfshark, ExpressVPN, NordVPN and more",
+        "summary": "Engadget has compiled a list of the best VPN deals for the new year, emphasizing the importance of cybersecurity and data privacy. Top recommendations include Proton VPN, ExpressVPN, and Surfshark, with discounts ranging from 67 to 88 percent for long-term subscriptions. The article breaks down the specific benefits of each service, such as speed, security features like kill switches, and streaming capabilities. It serves as a guide for users looking to secure their online presence while taking advantage of significant seasonal price cuts.",
+        "url": "https://www.engadget.com/deals/the-best-vpn-deals-up-to-88-percent-off-protonvpn-surfshark-expressvpn-nordvpn-and-more-120056445.html?src=rss"
+      },
+      {
+        "date": "2026-01-07T20:25:28+00:00",
+        "headline": "Motorola just announced a foldable phone to rival Samsung and Google at CES",
+        "summary": "Motorola unveiled the 'Razr Fold' at CES 2026, its first side-folding smartphone designed to compete directly with Samsung and Google. The device features a large 8.1-inch internal flexible display, a 6.6-inch external screen, and notably includes stylus support—a feature recently dropped by competitors. It boasts a robust camera system with multiple 50MP sensors and Dolby Vision recording capabilities. While pricing and full internal specs are yet to be revealed, this marks Motorola's expansion beyond its traditional flip-style foldables.",
+        "url": "https://www.engadget.com/mobile/smartphones/motorola-just-announced-a-foldable-phone-to-rival-samsung-and-google-at-ces-010015323.html?src=rss"
+      },
+      {
+        "date": "2026-01-07T20:17:43+00:00",
+        "headline": "How to use a VPN on iPhone",
+        "summary": "This guide provides a comprehensive tutorial on selecting, installing, and configuring a VPN on an iPhone to enhance online privacy. It warns against using unverified 'free' VPNs found in the App Store, recommending reputable services like Proton VPN or ExpressVPN instead. The article details the step-by-step installation process, including granting necessary permissions and setting up accounts. It also covers advanced configuration options like kill switches and split tunneling, while clarifying that iCloud Private Relay is not a full VPN replacement.",
+        "url": "https://www.engadget.com/cybersecurity/vpn/how-to-use-a-vpn-on-iphone-201743118.html?src=rss"
+      }
+    ]
+  },
+  {
+    "source": "Hacker News",
+    "articles": [
+      {
+        "date": "2026-01-08T04:39:55+00:00",
+        "headline": "Ushikuvirus: Newly discovered virus may offer clues to the origin of eukaryotes",
+        "summary": "Scientists have discovered a new virus, dubbed the Ushikuvirus, which may provide critical insights into the evolutionary origins of eukaryotes. This discovery could bridge gaps in our understanding of how complex life forms evolved from simpler organisms. The finding has sparked significant interest in the scientific community regarding the role of viruses in early evolutionary history. Further research into the Ushikuvirus is expected to illuminate the complex biological processes that led to the development of nucleated cells.",
+        "url": "https://www.tus.ac.jp/en/mediarelations/archive/20251219_9539.html"
+      }
+    ]
+  },
+  {
+    "source": "Mashable",
+    "articles": [
+      {
+        "date": "2026-01-08T07:10:25+00:00",
+        "headline": "Heated Rivalrys Hudson Williams teases Season 2, explains c*ck sock to Fallon",
+        "summary": "Actor Hudson Williams appeared on The Tonight Show with Jimmy Fallon to discuss the popular hockey romance series 'Heated Rivalry.' During the interview, Williams dropped several hints about what fans can expect in the upcoming second season. He also shared a humorous behind-the-scenes anecdote explaining the use of a 'c*ck sock' during filming. The segment highlighted the show's growing popularity and the chemistry of its cast.",
+        "url": "https://mashable.com/video/heated-rivalry-hudson-williams-jimmy-fallon"
+      },
+      {
+        "date": "2026-01-08T06:53:02+00:00",
+        "headline": "CES 2026: Dells decadent new 52-inch 6K ultrawide monitor is a world first",
+        "summary": "Dell has unveiled a massive 52-inch 6K ultrawide monitor at CES 2026, marketed as the UltraSharp 52 Thunderbolt Hub Monitor. Priced at $2,799.99, this world-first display offers immense screen real estate and high resolution for professionals. The monitor doubles as a connectivity hub, leveraging Thunderbolt technology to streamline workspace setups. It represents a significant leap in high-end display technology for creatives and power users.",
+        "url": "https://mashable.com/article/ces-2026-dell-52-inch-5k-ultrawide-monitor"
+      },
+      {
+        "date": "2026-01-08T05:00:00+00:00",
+        "headline": "Hurdle hints and answers for January 8, 2026",
+        "summary": "This article provides daily assistance for players of the puzzle game Hurdle for January 8, 2026. It offers a series of hints to help users guess the correct answers without immediately spoiling the solution. For those who are stuck, the full answers are provided at the end of the post. The guide serves as a quick resource for maintaining daily streaks in the popular word game.",
+        "url": "https://mashable.com/article/hurdle-hints-answers-january-8-2026"
+      },
+      {
+        "date": "2026-01-08T05:00:00+00:00",
+        "headline": "Moon phase today: What the Moon will look like on January 8",
+        "summary": "This daily update details the specific moon phase visible on January 8, 2025. It provides skywatchers with information on the moon's illumination and visibility for the night. Additionally, the article notes the date of the next upcoming Full Moon. It serves as a quick reference for astronomy enthusiasts tracking the lunar cycle.",
+        "url": "https://mashable.com/article/moon-phase-today-jan-8"
+      },
+      {
+        "date": "2026-01-08T03:36:51+00:00",
+        "headline": "CES 2026: Sonys AFEELA 1 EV is back and road ready",
+        "summary": "Sony and Honda's joint electric vehicle venture, AFEELA, returned to CES 2026 with a model that is now road-ready. Mashable's hands-on experience reveals that the focus has shifted from flashy conceptual features to refinement and practical drivability. The AFEELA 1 EV aims to integrate Sony's entertainment prowess with Honda's automotive engineering. The update signals that the car is moving closer to a consumer release.",
+        "url": "https://mashable.com/article/ces-2026-sony-honda-afeela-1-ev-car-road-ready"
+      },
+      {
+        "date": "2026-01-07T23:58:45+00:00",
+        "headline": "Ease sore muscles with the TheraGun Prime while its $80 off at Amazon",
+        "summary": "The TheraGun Prime, a popular percussive massage device, is currently on sale at Amazon. Shoppers can purchase the device for $249.99, saving $80 off its original list price of $329.99. This 24% discount makes the muscle recovery tool more accessible for those looking for post-workout relief. The deal is highlighted as a timely offer for fitness enthusiasts.",
+        "url": "https://mashable.com/article/jan-7-theragun-prime-deal"
+      },
+      {
+        "date": "2026-01-07T23:00:00+00:00",
+        "headline": "Tame your wayward cables with $60 off the Anker Prime Docking Station",
+        "summary": "A significant deal is available for the Anker Prime Docking Station, offering a $60 discount as of January 7. This device is designed to organize and power multiple devices, helping users clean up cluttered workspaces. It supports high-speed charging and data transfer, making it a versatile tool for desktop setups. The promotion provides an opportunity to upgrade home office connectivity at a lower price.",
+        "url": "https://mashable.com/article/jan-7-anker-prime-docking-station-deal"
+      },
+      {
+        "date": "2026-01-07T23:00:00+00:00",
+        "headline": "This MS Office 2024 license is future-ready and 40% off",
+        "summary": "A lifetime license for Microsoft Office 2024 Home & Business is currently available for $149.97, representing a 40% discount. The suite includes modern tools for both Mac and PC users, offering offline access to essential software like Word, Excel, and PowerPoint. This deal is positioned as a cost-effective solution for professionals and students needing long-term access to productivity software. It emphasizes enhanced performance and future-proofing without recurring subscription fees.",
+        "url": "https://mashable.com/article/jan-7-microsoft-office-2024-home-business-for-mac-or-pc"
+      },
+      {
+        "date": "2026-01-07T22:38:58+00:00",
+        "headline": "MrBeast Talks Beast Games Season 2 and how he built his YouTube empire",
+        "summary": "In an interview with Mashable, YouTube megastar MrBeast (Jimmy Donaldson) discusses his massive creative projects and the upcoming 'Beast Games' Season 2. He opens up about the relentless process behind building his YouTube empire and his strategies for audience retention. The conversation touches on his partnership with Prime Video and his ambitions for televised content. Donaldson provides insights into the operational scale required to maintain his status as a top global creator.",
+        "url": "https://mashable.com/video/mrbeast-beastgames-prime-video-jimmy-donaldson-interview"
+      },
+      {
+        "date": "2026-01-07T22:00:00+00:00",
+        "headline": "Get the Keurig K-Express for $69.99 at Amazon for a limited time",
+        "summary": "Amazon is offering a limited-time deal on the Keurig K-Express Single Serve Coffee Maker, pricing it at just $69.99. The machine features a 42oz water reservoir and a 'Strong Brew' button for more intense flavor. This compact coffee maker is designed for convenience and speed, suitable for small kitchens or offices. The discount provides an affordable entry point for those wanting a pod-based coffee system.",
+        "url": "https://mashable.com/article/jan-7-keurig-k-express-deal"
+      },
+      {
+        "date": "2026-01-07T22:00:00+00:00",
+        "headline": "Scan, organize, and conquer your clutter with SwiftScan right on your phone for 80% off",
+        "summary": "SwiftScan VIP, a mobile document scanning and organization app, is offering a lifetime subscription for $39.97 using the code SCAN. This deal represents an 80% discount, making the productivity tool highly accessible. The app allows users to scan, store, and manage documents directly from their smartphones, aiming to eliminate paper clutter. It is marketed as an effortless solution for digitizing personal and professional records.",
+        "url": "https://mashable.com/article/jan-7-swiftscan-lifetime-subscription"
+      },
+      {
+        "date": "2026-01-07T21:43:07+00:00",
+        "headline": "The dominATE Experience trailer proves Stray Kids were built for the big screen",
+        "summary": "A new trailer for 'Stray Kids: The dominATE Experience' has been released, previewing the K-pop group's upcoming concert film. Filmed at SoFi Stadium, the movie captures the high energy and spectacle of their live performances. The film is set for a worldwide theatrical release, bringing the concert experience to global fans. The trailer suggests the production scale is well-suited for cinema formats.",
+        "url": "https://mashable.com/video/stray-kids-the-dominate-experience-concert-film-trailer"
+      },
+      {
+        "date": "2026-01-07T20:45:24+00:00",
+        "headline": "I asked Lenovo CEO Yang Yuanqing what hed say to AI skeptics. He had a blunt, four-word response.",
+        "summary": "In a recent interview, Lenovo CEO Yang Yuanqing addressed skepticism surrounding the rapid integration of artificial intelligence into daily life. When asked what he would say to those resistant to AI, he offered a blunt four-word response: 'Nobody can avoid it.' His comment underscores the tech industry's view that AI adoption is an inevitability rather than a choice. The interview highlights Lenovo's commitment to embedding AI across its product lines.",
+        "url": "https://mashable.com/article/lenovo-ceo-yang-yuanqing-interview-ai-nobody-can-avoid-it"
+      },
+      {
+        "date": "2026-01-07T20:25:40+00:00",
+        "headline": "10 gadgets from CES 2026 that you can buy right now: Dell, Xreal, Soundcore, more",
+        "summary": "Although CES 2026 has just begun, several announced gadgets are already available for immediate purchase. This roundup lists 10 new products from brands like Dell, Xreal, and Soundcore that consumers can buy without waiting. The list ranges from audio equipment to computing accessories, allowing early adopters to get their hands on new tech instantly. It serves as a shopping guide for those impressed by the show's reveals.",
+        "url": "https://mashable.com/article/ces-2026-gadgets-you-can-buy"
+      },
+      {
+        "date": "2026-01-07T20:14:25+00:00",
+        "headline": "SAG Actor Awards nominations 2026: One Battle After Another and Sinners dominate",
+        "summary": "SAG-AFTRA has announced the nominees for the 2026 Actor Awards, with 'One Battle After Another' and 'Sinners' leading the field. These productions have secured multiple nominations, indicating strong support from the acting community. The announcement sets the stage for the upcoming awards ceremony, highlighting the year's standout performances in film and television. Industry watchers use these nominations to predict potential Oscar contenders.",
+        "url": "https://mashable.com/article/sag-actor-awards-nominations-2026"
+      },
+      {
+        "date": "2026-01-07T20:00:00+00:00",
+        "headline": "I found the best robot vacuums for every floor, budget, and level of laziness (after testing 30+ models)",
+        "summary": "After testing over 30 different models, this comprehensive review categorizes the best robot vacuums for 2026. The guide breaks down recommendations based on floor type, budget constraints, and desired automation levels. It features top picks from major brands like Roborock, Shark, and Eufy, including vacuum-mop combos. The review aims to simplify the buying process for consumers overwhelmed by the variety of automated cleaning options.",
+        "url": "https://mashable.com/roundup/best-robot-vacuums-2026"
+      },
+      {
+        "date": "2026-01-07T19:24:43+00:00",
+        "headline": "CES 2026: All of the big robot vacuum announcements, from new suction power records to... another arm",
+        "summary": "CES 2026 has seen a wave of innovation in the robot vacuum sector, with major announcements from Roborock, Dreame, and Narwal. New models are boasting record-breaking suction power and novel features, including robotic arms for better reach. The event also showcased advancements in cordless and wet-dry vacuum technology. This summary covers the most significant cleaning tech reveals from the trade show.",
+        "url": "https://mashable.com/article/ces-2026-robot-vacuum-announcements"
+      },
+      {
+        "date": "2026-01-07T18:51:35+00:00",
+        "headline": "I tried Razers Project Motoko AI headphones at CES 2026. Move over, smart glasses.",
+        "summary": "Razer introduced Project Motoko at CES 2026, a set of AI-integrated headphones that challenges the dominance of smart glasses. A hands-on test reveals how the headphones utilize AI to enhance the user experience, potentially offering a new way to interact with digital assistants. The device focuses on audio immersion paired with intelligent features. The review suggests this form factor could be a viable alternative to visual-based wearables.",
+        "url": "https://mashable.com/article/ces-2026-razer-project-motoko-hands-on"
+      },
+      {
+        "date": "2026-01-07T18:45:59+00:00",
+        "headline": "What time does The Pitt Season 2 premiere?",
+        "summary": "HBO Max's Emmy-winning drama 'The Pitt' is returning for its second season on January 8. This article provides the specific premiere time for fans waiting to stream the new episodes. It serves as a scheduling reminder for viewers of the acclaimed series. The show's return is highly anticipated following its previous award success.",
+        "url": "https://mashable.com/article/what-time-does-the-pitt-season-2-premiere"
+      },
+      {
+        "date": "2026-01-07T18:29:24+00:00",
+        "headline": "Best of CES 2026 awards announced: See all the winners and nominees",
+        "summary": "The finalists and winners for the 'Best of CES 2026' awards have been officially announced. The list highlights the most innovative and impressive technology showcased at the event across various categories. Winners were revealed on the afternoon of January 7, recognizing excellence in design and engineering. This summary provides a curated look at the top tech products of the year.",
+        "url": "https://mashable.com/article/best-of-ces-2026-awards-finalists"
+      },
+      {
+        "date": "2026-01-07T17:55:12+00:00",
+        "headline": "Acer debuted 3 new gaming monitors at CES 2026 — should you upgrade?",
+        "summary": "Acer revealed three new gaming monitors at CES 2026, targeting different segments of the gamer market. This article details the technical specifications, screen sizes, and refresh rates of the new models. It also provides information on pricing and availability dates to help consumers plan their purchases. The piece weighs the features to help users decide if an upgrade is worth the investment.",
+        "url": "https://mashable.com/article/ces-2026-acer-gaming-monitors"
+      },
+      {
+        "date": "2026-01-07T17:13:08+00:00",
+        "headline": "The weirdest, wildest tech we saw at CES 2026",
+        "summary": "CES 2026 wasn't just about polished consumer electronics; it also featured a host of bizarre and experimental gadgets. This collection highlights the strangest tech seen on the Las Vegas show floor, ranging from the practical to the absurd. The list showcases the creativity and eccentricity that defines the fringes of the tech industry. It offers an entertaining look at the 'wilder' side of innovation.",
+        "url": "https://mashable.com/article/ces-2026-weird-tech-list"
+      },
+      {
+        "date": "2026-01-07T17:03:31+00:00",
+        "headline": "Keep your tech powered up $15 off this Anker Nano Charger",
+        "summary": "A deal alert for the Anker Nano Charger highlights a $15 discount available at Amazon as of January 7. The compact charger is popular for its portability and fast-charging capabilities for mobile devices. This price drop makes it an attractive accessory for smartphone users looking for reliable power on the go. The offer is part of a broader trend of accessory discounts during the CES timeframe.",
+        "url": "https://mashable.com/article/jan-7-anker-nano-charger-deal"
+      },
+      {
+        "date": "2026-01-07T17:00:20+00:00",
+        "headline": "3 WTF robots from CES 2026",
+        "summary": "Robotics took center stage at CES 2026, but not all designs were conventional. This article spotlights three specific robots that stood out for their unusual design or function, labeled as 'WTF' moments. These machines represent the more experimental and surprising applications of robotics technology. The piece describes what makes these specific bots so distinct and out-there.",
+        "url": "https://mashable.com/article/ces-2026-wtf-robots"
+      },
+      {
+        "date": "2026-01-07T16:48:53+00:00",
+        "headline": "OpenAI reportedly testing ChatGPT ads soon",
+        "summary": "Reports indicate that OpenAI is planning to test advertisements directly within ChatGPT later this year. Despite initial user blowback regarding the monetization strategy, insiders suggest the company is moving forward with the plan. This shift would mark a significant change in the user experience for the popular AI chatbot. The move is likely driven by the immense costs associated with running and training large language models.",
+        "url": "https://mashable.com/article/openai-chatgpt-ads-testing"
+      },
+      {
+        "date": "2026-01-07T16:45:07+00:00",
+        "headline": "Samsung Galaxy Z TriFold hands-on: Im excited, but its got quirks",
+        "summary": "A hands-on review of the Samsung Galaxy Z TriFold from CES 2026 reveals a mix of excitement and reservation. The reviewer praises the innovative design that significantly expands screen space but notes specific functional quirks. Issues such as weight, crease visibility, or software optimization are likely points of contention. The article provides a balanced first impression for early adopters considering the unique device.",
+        "url": "https://mashable.com/article/samsung-galaxy-z-trifold-hands-on-ces-2026"
+      },
+      {
+        "date": "2026-01-07T16:19:06+00:00",
+        "headline": "Upgrade your smartphone with $300 off the Google Pixel 10 Pro Fold",
+        "summary": "Amazon is offering a substantial $300 discount on the Google Pixel 10 Pro Fold as of January 7. This deal significantly lowers the barrier to entry for Google's flagship foldable device. The phone features top-tier cameras and Google's latest AI integrations. This promotion is one of the better opportunities to acquire a high-end foldable phone at a reduced price.",
+        "url": "https://mashable.com/article/jan-7-google-pixel-10-pro-fold-deal"
+      },
+      {
+        "date": "2026-01-07T16:16:05+00:00",
+        "headline": "The DJI Mini 3 Fly More Combo is on sale for less than Black Friday — save over $100 at Amazon",
+        "summary": "The DJI Mini 3 Fly More Combo has dropped to $575 on Amazon, a price lower than what was seen during Black Friday. This 20% discount saves buyers over $100 off the list price of $719. The combo includes the drone, extra batteries, and other essential accessories. It is highlighted as an excellent value for drone enthusiasts looking for a comprehensive starter kit.",
+        "url": "https://mashable.com/article/jan-7-dji-mini-3-fly-more-combo-deal"
+      },
+      {
+        "date": "2026-01-07T16:15:55+00:00",
+        "headline": "Nothings new CMF Headphone Pro wireless headphones are down to just $79",
+        "summary": "Nothing's CMF Headphone Pro wireless headphones are available for a record-low price of $79 on Amazon. This Lightning deal offers the noise-cancelling headphones at their best price ever. The headphones are known for their distinct design and solid audio performance for the budget. This limited-time offer makes them a competitive option in the affordable audio market.",
+        "url": "https://mashable.com/article/jan-7-nothing-cmf-headphones-pro-deal"
+      },
+      {
+        "date": "2026-01-07T16:12:51+00:00",
+        "headline": "The 11-inch iPad is now $50 less at Amazon",
+        "summary": "The 11-inch Apple iPad (A16 chip, 128GB, WiFi) is currently on sale at Amazon for $299. This represents a $50 discount from its standard price of $349. The deal makes the tablet more accessible for students and casual users. It is a solid entry point into the Apple ecosystem for those needing a reliable tablet for media and light work.",
+        "url": "https://mashable.com/article/jan-7-apple-ipad-deal"
+      },
+      {
+        "date": "2026-01-07T16:11:25+00:00",
+        "headline": "The Star Wars Unlimited TCG Spark of Rebellion Booster Display is down to under market value at Amazon",
+        "summary": "A booster display for the 'Star Wars: Unlimited TCG Spark of Rebellion' set is on sale for $76.10 at Amazon. This price is noted to be under the current market value, making it a great find for collectors and players. The box contains 24 packs, offering a cost-effective way to build a deck or complete a collection. The card game has seen growing popularity, adding value to this discount.",
+        "url": "https://mashable.com/article/jan-7-star-wars-tcg-spark-of-rebellion-booster-display-deal"
+      },
+      {
+        "date": "2026-01-07T15:24:21+00:00",
+        "headline": "Gear up for winter with the DJI Power 2000 portable power station while its $500 off",
+        "summary": "The DJI Power 2000 portable power station is currently discounted by $500 on Amazon. Now priced at $799 down from $1,299, this 38% off deal is significant for those needing backup power. The unit is capable of powering essential appliances and charging drones or other tech gear. It is marketed as a crucial tool for winter preparedness or off-grid adventures.",
+        "url": "https://mashable.com/article/jan-7-dji-power-2000-deal"
+      }
+    ]
+  }
+]

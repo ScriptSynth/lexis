@@ -1,6 +1,9 @@
 {
-    "name": "lexis-dashboard",
+    "name": "lexis",
     "compatibility_date": "2024-09-23",
+    "compatibility_flags": [
+        "nodejs_compat"
+    ],
     "main": "frontend/.vercel/output/static/_worker.js",
     "assets": {
         "directory": "frontend/.vercel/output/static",

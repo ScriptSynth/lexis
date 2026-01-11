@@ -8,8 +8,8 @@ import { Layers, ArrowUp, CheckCircle2 } from "lucide-react";
 import { format, isToday, isYesterday } from "date-fns";
 
 const supabase = createClient(
-    process.env.NEXT_PUBLIC_SUPABASE_URL!,
-    process.env.NEXT_PUBLIC_SUPABASE_ANON_KEY!
+    process.env.NEXT_PUBLIC_SUPABASE_URL || "https://example.com",
+    process.env.NEXT_PUBLIC_SUPABASE_ANON_KEY || "placeholder"
 );
 
 const ITEMS_PER_PAGE = 20;

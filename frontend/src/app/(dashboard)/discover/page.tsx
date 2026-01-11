@@ -6,8 +6,8 @@ import { createClient } from "@supabase/supabase-js";
 import { AdPlaceholder } from "@/components/AdPlaceholder";
 
 const supabase = createClient(
-    process.env.NEXT_PUBLIC_SUPABASE_URL!,
-    process.env.NEXT_PUBLIC_SUPABASE_ANON_KEY!
+    process.env.NEXT_PUBLIC_SUPABASE_URL || "https://example.com",
+    process.env.NEXT_PUBLIC_SUPABASE_ANON_KEY || "placeholder"
 );
 
 const CATEGORIES = ["All", "Tech", "Business", "World", "Science", "Finance", "Entertainment"];
